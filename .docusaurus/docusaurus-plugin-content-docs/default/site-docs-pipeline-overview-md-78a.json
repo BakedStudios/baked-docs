@@ -1,0 +1,23 @@
+{
+  "id": "pipeline_overview",
+  "title": "Pipeline Overview",
+  "description": "",
+  "source": "@site/docs/pipeline_overview.md",
+  "sourceDirName": ".",
+  "slug": "/pipeline_overview",
+  "permalink": "/docs/pipeline_overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/pipeline_overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Artist",
+    "permalink": "/docs/category/artist"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "artist/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/artist/manage-docs-versions.md",
+  "sourceDirName": "artist",
+  "slug": "/artist/manage-docs-versions",
+  "permalink": "/docs/artist/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/artist/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artist",
+    "permalink": "/docs/category/artist"
+  },
+  "next": {
+    "title": "Coordinator",
+    "permalink": "/docs/category/coordinator"
+  }
+}

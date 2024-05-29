@@ -1,0 +1,27 @@
+{
+  "id": "coordinator/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/coordinator/congratulations.md",
+  "sourceDirName": "coordinator",
+  "slug": "/coordinator/congratulations",
+  "permalink": "/docs/coordinator/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/coordinator/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/coordinator/deploy-your-site"
+  },
+  "next": {
+    "title": "Road Map",
+    "permalink": "/docs/category/road-map"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Coordinator/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/Coordinator/deploy-your-site.md",
+  "sourceDirName": "Coordinator",
+  "slug": "/Coordinator/deploy-your-site",
+  "permalink": "/docs/Coordinator/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/Coordinator/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/Coordinator/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/Coordinator/congratulations"
+  }
+}

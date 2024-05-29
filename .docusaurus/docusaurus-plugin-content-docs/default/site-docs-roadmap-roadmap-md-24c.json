@@ -1,0 +1,24 @@
+{
+  "id": "Roadmap/roadmap",
+  "title": "roadmap",
+  "description": "",
+  "source": "@site/docs/Roadmap/roadmap.md",
+  "sourceDirName": "Roadmap",
+  "slug": "/Roadmap/",
+  "permalink": "/docs/Roadmap/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/Roadmap/roadmap.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Road Map",
+    "permalink": "/docs/category/road-map"
+  },
+  "next": {
+    "title": "Artist",
+    "permalink": "/docs/category/artist"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Artist/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Artist/translate-your-site.md",
+  "sourceDirName": "Artist",
+  "slug": "/Artist/translate-your-site",
+  "permalink": "/docs/Artist/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/Artist/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/Artist/manage-docs-versions"
+  },
+  "next": {
+    "title": "Road Map",
+    "permalink": "/docs/category/road-map"
+  }
+}

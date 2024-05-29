@@ -1,0 +1,27 @@
+{
+  "id": "Coordinator/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/Coordinator/markdown-features.mdx",
+  "sourceDirName": "Coordinator",
+  "slug": "/Coordinator/markdown-features",
+  "permalink": "/docs/Coordinator/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/Coordinator/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/Coordinator/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/Coordinator/deploy-your-site"
+  }
+}

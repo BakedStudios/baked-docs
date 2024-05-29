@@ -1,25 +1,27 @@
-import clsx from "clsx";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import React from "react";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import Heading from "@theme/Heading";
+import useBaseUrl from "@docusaurus/useBaseUrl";
+import Markdown from "react-markdown";
 
-import styles from "./index.module.css";
+const Home: React.FC = () => {
+  const markdownPageUrl = useBaseUrl("/markdown-page.md");
 
-// Remove the HomepageHeader function
-
-export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title="Home"
       description="Description will go into a meta tag in <head />"
     >
-      {/* Remove the HomepageHeader call */}
       <main>
-        <HomepageFeatures />
+        <div className="container">
+          <Markdown>{`
+            import Content from '${markdownPageUrl}';
+
+            <Content />
+          `}</Markdown>
+        </div>
       </main>
     </Layout>
   );
-}
+};
+
+export default Home;

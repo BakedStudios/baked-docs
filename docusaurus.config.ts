@@ -4,7 +4,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Welcome",
-  tagline: "Keep it simple, stupid.",
+  tagline:
+    "Automate: Save time, reduce errors. Integrate: Enhance collaboration. Track: Maintain version control. Test: Ensure continuous quality. Secure: Protect your data. Document: Keep everyone informed.",
   favicon: "img/baked-logo-sprite.ico",
 
   // Set the production url of your site here
@@ -68,7 +69,7 @@ const config: Config = {
           position: "left",
           label: "Documentation",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog", label: "Posts", position: "left" },
         {
           href: "https://github.com/BakedStudios",
           label: "GitHub",
@@ -79,41 +80,41 @@ const config: Config = {
     footer: {
       style: "dark",
       links: [
-        {
-          title: "Quick Links",
-          items: [
-            {
-              label: "Overview",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Helpful Links",
-          items: [
-            {
-              label: "Flow Forums",
-              href: "https://community.shotgridsoftware.com/",
-            },
-            {
-              label: "Deadline Forums",
-              href: "https://forums.thinkboxsoftware.com/",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/BakedStudios",
-            },
-          ],
-        },
+        // {
+        //   title: "Quick Links",
+        //   items: [
+        //     {
+        //       label: "Overview",
+        //       to: "/docs/intro",
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "Helpful Links",
+        //   items: [
+        //     {
+        //       label: "Flow Forums",
+        //       href: "https://community.shotgridsoftware.com/",
+        //     },
+        //     {
+        //       label: "Deadline Forums",
+        //       href: "https://forums.thinkboxsoftware.com/",
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "More",
+        //   items: [
+        //     {
+        //       label: "Blog",
+        //       to: "/blog",
+        //     },
+        //     {
+        //       label: "GitHub",
+        //       href: "https://github.com/BakedStudios",
+        //     },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Baked Studios`,
     },

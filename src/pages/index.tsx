@@ -1,10 +1,10 @@
 import React from "react";
 import Layout from "@theme/Layout";
-import useBaseUrl from "@docusaurus/useBaseUrl";
-import Markdown from "react-markdown";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
-const Home: React.FC = () => {
-  const markdownPageUrl = useBaseUrl("/markdown-page.md");
+export default function Home(): JSX.Element {
+  const { siteConfig } = useDocusaurusContext();
 
   return (
     <Layout
@@ -13,15 +13,61 @@ const Home: React.FC = () => {
     >
       <main>
         <div className="container">
-          <Markdown>{`
-            import Content from '${markdownPageUrl}';
-
-            <Content />
-          `}</Markdown>
+          <div style={{ textAlign: "center", padding: "50px" }}>
+            <h2>Welcome to Baked's Pipeline Site!</h2>
+            <h2>___</h2>
+            <h1>🥳 v0.6.0-bakedstudios.0.5.4 is out! 🎉</h1>
+            <h2>___</h2>
+            <h2>Helpful Links:</h2>
+            <h3>
+              <Link
+                to="https://community.shotgridsoftware.com/"
+                className="external-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Autodesk Flow Forums
+              </Link>
+            </h3>
+            <h3>
+              <Link
+                to="https://forums.thinkboxsoftware.com"
+                className="external-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Deadline Forums
+              </Link>
+            </h3>
+            <h3>
+              <Link
+                to="https://support.suitestudios.io/en/"
+                className="external-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Suite Knowledge Base
+              </Link>
+            </h3>
+            <h3>
+              <Link
+                to="https://help.massive.io/en"
+                className="external-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                MASV Support
+              </Link>
+            </h3>
+            <h2>___</h2>
+            <div style={{ marginTop: "20px" }}>
+              <Link className="button button--primary button--lg" to="/blog">
+                Latest Post
+              </Link>
+            </div>
+          </div>
         </div>
       </main>
     </Layout>
   );
-};
-
-export default Home;
+}

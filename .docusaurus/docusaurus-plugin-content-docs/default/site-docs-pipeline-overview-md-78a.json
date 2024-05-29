@@ -1,7 +1,7 @@
 {
   "id": "pipeline_overview",
   "title": "Pipeline Overview",
-  "description": "",
+  "description": "Hello there!",
   "source": "@site/docs/pipeline_overview.md",
   "sourceDirName": ".",
   "slug": "/pipeline_overview",

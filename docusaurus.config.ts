@@ -5,10 +5,10 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Welcome",
   tagline: "Keep it simple, stupid.",
-  favicon: "img/favicon.ico",
+  favicon: "img/baked-logo-sprite.ico",
 
   // Set the production url of your site here
-  url: "https://wearebaekd.com",
+  url: "https://wearebaked.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -37,13 +37,13 @@ const config: Config = {
           sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/BakedStudios/baked-docs",
+          editUrl: "https://github.com/BakedStudios/baked-docs/blob/main",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/BakedStudios/baked-docs",
+          editUrl: "https://github.com/BakedStudios/baked-docs/blob/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -66,11 +66,11 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Documentation",
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/BakedStudios",
           label: "GitHub",
           position: "right",
         },
@@ -80,10 +80,10 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Quick Links",
           items: [
             {
-              label: "Tutorial",
+              label: "Overview",
               to: "/docs/intro",
             },
           ],
@@ -98,10 +98,6 @@ const config: Config = {
             {
               label: "Deadline Forums",
               href: "https://forums.thinkboxsoftware.com/",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
             },
           ],
         },

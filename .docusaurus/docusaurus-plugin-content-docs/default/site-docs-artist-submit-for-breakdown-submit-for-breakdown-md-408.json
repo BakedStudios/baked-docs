@@ -1,0 +1,26 @@
+{
+  "id": "artist/submit_for_breakdown/submit_for_breakdown",
+  "title": "Submit for Breakdown",
+  "description": "Approaching breakdowns in this way allows for the pairing of published files with shots assigned as breakdown shots - so someone else down the line can be assigned the task of a breakdown.",
+  "source": "@site/docs/artist/submit_for_breakdown/submit_for_breakdown.md",
+  "sourceDirName": "artist/submit_for_breakdown",
+  "slug": "/artist/submit_for_breakdown/",
+  "permalink": "/docs/artist/submit_for_breakdown/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OCIO Color Workflow",
+    "permalink": "/docs/artist/ocio_color_workflow/"
+  },
+  "next": {
+    "title": "Developer Info",
+    "permalink": "/docs/category/developer-info"
+  }
+}

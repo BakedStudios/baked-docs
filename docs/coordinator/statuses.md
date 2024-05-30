@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Flow Statuses
+# Statuses
 
 >Below is a breakdown of shot, task, and version statuses that are available in Flow. Slate statuses are included as well.
 

@@ -2,7 +2,7 @@
 slug: jet-deep-dive
 title: Deep Dive | Signiant Jet
 authors: ["cameron"]
-tags: [TPN, file-transfer]
+tags: [deep-dive, file-transfer]
 ---
 
 >TLDR: Signiant Jet is a proposed software addition to our pipeline here at Baked. It syncs storage.

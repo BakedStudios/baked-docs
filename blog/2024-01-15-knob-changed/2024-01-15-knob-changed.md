@@ -10,6 +10,8 @@ tags: [nuke, scripting]
 
 So you're trying to update the value of one knob when the value of another changes. This functionality in Nuke is enabled by the knobChanged knobs that are hidden, but included, in most nodes. If you want to attach a script to a knobChanged knob, and also keep it when you save and reopen your Nuke script later, this guide's for you.
 
+<!--truncate-->
+
 ## Part 1: KnobChanged
 
 Nodes in Nuke obviously have a variety of controls, but some are visible and some not. One hidden control is known as "knobChanged." Typically, this control starts empty, but you can attach a script or code to it. The attached code will execute whenever a designated knob—or even all knobs—undergo changes.

@@ -2,7 +2,7 @@
 slug: tpn-deep-dive
 title: Deep Dive | TPN
 authors: ["cameron"]
-tags: [TPN, deepdive]
+tags: [TPN, deep-dive]
 ---
 
 >TLDR: it's some security stuff. Mainly a way for big studios to keep their IP safe - for Baked, it could open the doors to more clients.

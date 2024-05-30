@@ -6,6 +6,8 @@ tags: [syncthing, deep-dive]
 
 > tldr: [Syncthing](https://syncthing.net/) is a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), decentralized file synchronization tool, facilitating seamless data synchronization across different locations. This article looks at Syncthing's underlying mechanisms and its application within media production companies, specifically highlighting its use here at Baked Studios to synchronize data across a Synology NAS in Montana, an SNS EVO storage system in Los Angeles, and another storage in New York. By diving into its architecture and operational framework, hopefully this will provide insights into Syncthing's utility in enhancing collaborative workflows and data management in the visual effects industry.
 
+<!--truncate-->
+
 ## Introduction
 In the fast-paced environment of media production, the ability to efficiently synchronize and manage data across multiple locations is often mentioned as important. Why? If you think about our entitre ShotGrid set-up it all relies on one thing: a shared storage for us all to work off of. Syncthing, an open-source peer-to-peer file synchronization tool, offers a robust solution by enabling devices to synchronize files directly with each other over a secure, encrypted connection. With some handy drive letter mapping, Syncthing gives us the coveted storage platform we need for ShotGrid to organize our company's workflow properly.
 

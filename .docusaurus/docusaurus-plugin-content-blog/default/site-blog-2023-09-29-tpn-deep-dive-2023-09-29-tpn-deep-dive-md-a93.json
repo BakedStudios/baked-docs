@@ -10,8 +10,8 @@
       "permalink": "/blog/tags/tpn"
     },
     {
-      "label": "deepdive",
-      "permalink": "/blog/tags/deepdive"
+      "label": "deep-dive",
+      "permalink": "/blog/tags/deep-dive"
     }
   ],
   "readingTime": 2.705,
@@ -33,7 +33,7 @@
     ],
     "tags": [
       "TPN",
-      "deepdive"
+      "deep-dive"
     ]
   },
   "unlisted": false,

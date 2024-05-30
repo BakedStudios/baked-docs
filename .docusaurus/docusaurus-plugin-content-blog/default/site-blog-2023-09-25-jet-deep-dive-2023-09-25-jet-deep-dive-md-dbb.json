@@ -6,8 +6,8 @@
   "date": "2023-09-25T00:00:00.000Z",
   "tags": [
     {
-      "label": "TPN",
-      "permalink": "/blog/tags/tpn"
+      "label": "deep-dive",
+      "permalink": "/blog/tags/deep-dive"
     },
     {
       "label": "file-transfer",
@@ -32,7 +32,7 @@
       "cameron"
     ],
     "tags": [
-      "TPN",
+      "deep-dive",
       "file-transfer"
     ]
   },

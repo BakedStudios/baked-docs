@@ -1,0 +1,23 @@
+{
+  "id": "artist/shot_workflow/placeholder",
+  "title": "Placehoder",
+  "description": "Hello there!",
+  "source": "@site/docs/artist/shot_workflow/placeholder.md",
+  "sourceDirName": "artist/shot_workflow",
+  "slug": "/artist/shot_workflow/placeholder",
+  "permalink": "/docs/artist/shot_workflow/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artist Workflows",
+    "permalink": "/docs/category/artist-workflows"
+  },
+  "next": {
+    "title": "Developer Info",
+    "permalink": "/docs/category/developer-info"
+  }
+}

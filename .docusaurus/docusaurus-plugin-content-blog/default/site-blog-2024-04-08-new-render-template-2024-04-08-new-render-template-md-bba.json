@@ -1,8 +1,8 @@
 {
   "permalink": "/blog/2024/04/08/2024-04-08-new-render-template/new-render-template",
   "source": "@site/blog/2024-04-08-new-render-template/2024-04-08-new-render-template.md",
-  "title": "Update to render template!",
-  "description": "Changes have been made to the render_template.nk file for the nuke transcoder.",
+  "title": "Update to render_template.nk",
+  "description": "Changes have been made to the rendertemplate.nk file for the nuke transcoder.",
   "date": "2024-04-08T00:00:00.000Z",
   "tags": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "frontMatter": {
-    "title": "Update to render template!",
+    "title": "Update to render_template.nk",
     "authors": [
       "cameron"
     ],

@@ -1,10 +1,10 @@
 ---
-title: Update to render template!
+title: Update to render_template.nk
 authors: ["cameron"]
 tags: [nuke]
 ---
 
->Changes have been made to the render_template.nk file for the nuke transcoder.
+>Changes have been made to the [render_template.nk](suite://files/Admin/resources/render_template/render_template.nk) file for the nuke transcoder.
 
 ### Updates:
 - Fewer copies/redundant nodes

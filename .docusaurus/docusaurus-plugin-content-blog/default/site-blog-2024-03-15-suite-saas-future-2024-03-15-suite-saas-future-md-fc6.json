@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future",
+  "source": "@site/blog/2024-03-15-suite-saas-future/2024-03-15-suite-saas-future.md",
+  "title": "Suite Studios — A SaaS Future for Baked Studios",
+  "description": "This is an overview of how our pipeline could be improved by adopting Suite Studios cloud storage software.",
+  "date": "2024-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "suite",
+      "permalink": "/blog/tags/suite"
+    },
+    {
+      "label": "file-transfer",
+      "permalink": "/blog/tags/file-transfer"
+    }
+  ],
+  "readingTime": 14.65,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Suite Studios — A SaaS Future for Baked Studios",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "suite",
+      "file-transfer"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Update to render template!",
+    "permalink": "/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"
+  },
+  "nextItem": {
+    "title": "USDZ Cookie!",
+    "permalink": "/blog/2024/02/25/2024-02-25-usdz/usdz"
+  }
+}

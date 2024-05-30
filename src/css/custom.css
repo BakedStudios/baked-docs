@@ -45,3 +45,20 @@
 .external-link:hover {
     color: #1e90ff; /* Slightly darker blue for hover state */
 }
+
+/* Custom button styles */
+.button--primary,
+.button--secondary {
+    color: #ffffff !important; /* Make text color white */
+}
+
+/* Invert colors only in dark mode */
+[data-theme="dark"] .invert-color {
+    filter: invert(100%);
+}
+
+/* Set max-width for images with the invert-color class */
+/* .invert-color {
+    max-width: 50%; /* You can change this to a specific value like '500px' */
+/* height: auto; /* Maintain aspect ratio */
+/* } */

@@ -63,8 +63,16 @@ export default function Home(): JSX.Element {
             <h2>___</h2>
             <div style={{ marginTop: "20px" }}>
               <Link className="button button--primary button--lg" to="/blog">
-                Latest Post
+                Recent Posts
               </Link>
+              <div style={{ marginTop: "20px" }}>
+                <Link
+                  className="button button--primary button--lg"
+                  to="/blog/tags/release"
+                >
+                  Releases
+                </Link>
+              </div>
             </div>
           </div>
         </div>

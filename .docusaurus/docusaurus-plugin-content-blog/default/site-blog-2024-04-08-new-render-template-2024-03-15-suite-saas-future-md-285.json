@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2024/03/15/2024-04-08-new-render-template/suite-saas-future",
+  "source": "@site/blog/2024-04-08-new-render-template/2024-03-15-suite-saas-future.md",
+  "title": "Update to render template!",
+  "description": "Updates:",
+  "date": "2024-03-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "nuke",
+      "permalink": "/blog/tags/nuke"
+    },
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    }
+  ],
+  "readingTime": 0.31,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Update to render template!",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "nuke",
+      "release"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Suite Studios — A SaaS Future for Baked Studios",
+    "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
+  },
+  "nextItem": {
+    "title": "USDZ Cookie!",
+    "permalink": "/blog/2024/02/25/2024-02-25-usdz/usdz"
+  }
+}

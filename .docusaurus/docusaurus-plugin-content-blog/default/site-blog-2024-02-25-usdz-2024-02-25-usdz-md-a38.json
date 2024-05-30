@@ -10,8 +10,8 @@
       "permalink": "/blog/tags/usdz"
     }
   ],
-  "readingTime": 0.29,
-  "hasTruncateMarker": true,
+  "readingTime": 0.33,
+  "hasTruncateMarker": false,
   "authors": [
     {
       "name": "Cameron Target",
@@ -31,6 +31,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Suite Studios — A SaaS Future for Baked Studios",
+    "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
+  },
   "nextItem": {
     "title": "Deep Dive | Suite Studios",
     "permalink": "/blog/2024/02/15/2024-02-15-suite/suite"

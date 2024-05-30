@@ -1,0 +1,23 @@
+{
+  "id": "Developer/roadmap",
+  "title": "Placehoder",
+  "description": "Hello there!",
+  "source": "@site/docs/Developer/roadmap.md",
+  "sourceDirName": "Developer",
+  "slug": "/Developer/roadmap",
+  "permalink": "/docs/Developer/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer",
+    "permalink": "/docs/category/developer"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

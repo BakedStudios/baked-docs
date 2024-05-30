@@ -1,0 +1,26 @@
+{
+  "id": "coordinator/archiving",
+  "title": "Archiving",
+  "description": "This topic will discuss how to archive a project after it has been finaled and ready to be wrapped up.",
+  "source": "@site/docs/coordinator/archiving.md",
+  "sourceDirName": "coordinator",
+  "slug": "/coordinator/archiving",
+  "permalink": "/docs/coordinator/archiving",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flow Statuses",
+    "permalink": "/docs/coordinator/statuses"
+  },
+  "next": {
+    "title": "Artist Workflows",
+    "permalink": "/docs/category/artist-workflows"
+  }
+}

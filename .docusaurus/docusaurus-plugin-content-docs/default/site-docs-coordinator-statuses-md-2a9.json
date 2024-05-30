@@ -1,0 +1,26 @@
+{
+  "id": "coordinator/statuses",
+  "title": "Flow Statuses",
+  "description": "Below is a breakdown of shot, task, and version statuses that are available in Flow. Slate statuses are included as well.",
+  "source": "@site/docs/coordinator/statuses.md",
+  "sourceDirName": "coordinator",
+  "slug": "/coordinator/statuses",
+  "permalink": "/docs/coordinator/statuses",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coordinator Workflows",
+    "permalink": "/docs/category/coordinator-workflows"
+  },
+  "next": {
+    "title": "Archiving",
+    "permalink": "/docs/coordinator/archiving"
+  }
+}

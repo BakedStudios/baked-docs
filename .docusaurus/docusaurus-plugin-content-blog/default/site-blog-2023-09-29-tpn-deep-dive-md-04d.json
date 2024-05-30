@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/tpn-deep-dive",
+  "source": "@site/blog/2023-09-29-tpn-deep-dive.md",
+  "title": "TPN Deep Dive",
+  "description": "TLDR: it's some security stuff. Mainly a way for big studios to keep their IP safe - for Baked, it could open the doors to more clients.",
+  "date": "2023-09-29T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "TPN",
+      "permalink": "/blog/tags/tpn"
+    },
+    {
+      "label": "deepdive",
+      "permalink": "/blog/tags/deepdive"
+    }
+  ],
+  "readingTime": 2.705,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "slug": "tpn-deep-dive",
+    "title": "TPN Deep Dive",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "TPN",
+      "deepdive"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "MDX Blog Post",
+    "permalink": "/blog/mdx-blog-post"
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}

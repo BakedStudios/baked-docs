@@ -8,7 +8,6 @@
   "permalink": "/docs/coordinator/congratulations",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/coordinator/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
@@ -21,7 +20,7 @@
     "permalink": "/docs/coordinator/deploy-your-site"
   },
   "next": {
-    "title": "Road Map",
-    "permalink": "/docs/category/road-map"
+    "title": "Artist",
+    "permalink": "/docs/category/artist"
   }
 }

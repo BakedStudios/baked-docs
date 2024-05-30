@@ -1,6 +1,6 @@
 {
-  "label": "Artist",
-  "position": 2,
+  "label": "Artist Workflows",
+  "position": 4,
   "link": {
     "type": "generated-index",
     "description": "Artists need to know this stuff."

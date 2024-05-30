@@ -1,6 +1,5 @@
 {
   "permalink": "/blog/mdx-blog-post",
-  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/blog/2024-05-29-mdx-blog-post.mdx",
   "source": "@site/blog/2024-05-29-mdx-blog-post.mdx",
   "title": "MDX Blog Post",
   "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -19,14 +18,14 @@
       "title": "Pipeline Manager",
       "url": "https://www.wearebaked.com/about",
       "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
-      "key": "slorber"
+      "key": "cameron"
     }
   ],
   "frontMatter": {
     "slug": "mdx-blog-post",
     "title": "MDX Blog Post",
     "authors": [
-      "slorber"
+      "cameron"
     ],
     "tags": [
       "docusaurus"
@@ -34,7 +33,7 @@
   },
   "unlisted": false,
   "nextItem": {
-    "title": "Welcome",
-    "permalink": "/blog/welcome"
+    "title": "TPN | Deep Dive",
+    "permalink": "/blog/tpn-deep-dive"
   }
 }

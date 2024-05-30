@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2024/01/15/2024-01-15-knob-changed copy/knob-changed",
+  "source": "@site/blog/2024-01-15-knob-changed copy/2024-01-15-knob-changed.md",
+  "title": "Exploring 'knobChanged'",
+  "description": "A foray into the knobChanged function in Nuke.",
+  "date": "2024-01-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "nuke",
+      "permalink": "/blog/tags/nuke"
+    },
+    {
+      "label": "scripting",
+      "permalink": "/blog/tags/scripting"
+    }
+  ],
+  "readingTime": 3.6,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Exploring 'knobChanged'",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "nuke",
+      "scripting"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Exploring 'knobChanged'",
+    "permalink": "/blog/2024/01/15/2024-01-15-knob-changed/knob-changed"
+  },
+  "nextItem": {
+    "title": "Release | v0.4.4-bakedstudios.0.4.1",
+    "permalink": "/blog/2023/12/31/2023-12-31-config-release-notes/config-release-notes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nuke_transcoder/nodes_list",
+  "title": "Nodes List (For Render Template and Export Profiles)",
+  "description": "This document is a comprehensive list of the default nodes that are set up in the Nuke Transcoder render_template.nk script and can be accessed with Export Profiles.",
+  "source": "@site/docs/nuke_transcoder/nodes_list.md",
+  "sourceDirName": "nuke_transcoder",
+  "slug": "/nuke_transcoder/nodes_list",
+  "permalink": "/docs/nuke_transcoder/nodes_list",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nuke Transcoder",
+    "permalink": "/docs/category/nuke-transcoder"
+  },
+  "next": {
+    "title": "Coordinator Workflows",
+    "permalink": "/docs/category/coordinator-workflows"
+  }
+}

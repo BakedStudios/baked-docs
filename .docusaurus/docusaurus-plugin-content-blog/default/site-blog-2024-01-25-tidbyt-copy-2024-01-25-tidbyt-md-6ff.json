@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2024/01/25/2024-01-25-tidbyt copy/tidbyt",
+  "source": "@site/blog/2024-01-25-tidbyt copy/2024-01-25-tidbyt.md",
+  "title": "I wrote something in Starlark!",
+  "description": "Git repo//github.com/BakedStudios/baked-tools/tree/main/tidbyt-sg-monitor",
+  "date": "2024-01-25T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "tidbyt",
+      "permalink": "/blog/tags/tidbyt"
+    },
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    }
+  ],
+  "readingTime": 2.48,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "I wrote something in Starlark!",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "tidbyt",
+      "python"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "I wrote something in Starlark!",
+    "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
+  },
+  "nextItem": {
+    "title": "Exploring 'knobChanged'",
+    "permalink": "/blog/2024/01/15/2024-01-15-knob-changed/knob-changed"
+  }
+}

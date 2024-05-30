@@ -1,0 +1,26 @@
+{
+  "id": "guides/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/guides/create-a-page.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/create-a-page",
+  "permalink": "/docs/guides/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/guides/manage-docs-versions"
+  }
+}

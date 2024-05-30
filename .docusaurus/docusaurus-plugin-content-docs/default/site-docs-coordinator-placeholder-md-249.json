@@ -1,0 +1,23 @@
+{
+  "id": "coordinator/placeholder",
+  "title": "Flow Statuses",
+  "description": "Below is a breakdown of shot, task, and version statuses that are available in Flow. Slate statuses are included as well.",
+  "source": "@site/docs/coordinator/placeholder.md",
+  "sourceDirName": "coordinator",
+  "slug": "/coordinator/placeholder",
+  "permalink": "/docs/coordinator/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coordinator",
+    "permalink": "/docs/category/coordinator"
+  },
+  "next": {
+    "title": "Artist",
+    "permalink": "/docs/category/artist"
+  }
+}

@@ -8,7 +8,6 @@
   "permalink": "/docs/coordinator/create-a-document",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/BakedStudios/baked-docs/blob/main/docs/coordinator/create-a-document.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/coordinator/create-a-page"
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/coordinator/manage-docs-versions"
   },
   "next": {
     "title": "Create a Blog Post",

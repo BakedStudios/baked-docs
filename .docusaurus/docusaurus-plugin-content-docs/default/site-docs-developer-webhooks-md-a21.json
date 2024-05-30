@@ -1,0 +1,23 @@
+{
+  "id": "developer/webhooks",
+  "title": "Webhooks Service",
+  "description": "This is a Flask web application responsible for handling webhook calls from",
+  "source": "@site/docs/developer/webhooks.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/webhooks",
+  "permalink": "/docs/developer/webhooks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Info",
+    "permalink": "/docs/category/developer-info"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

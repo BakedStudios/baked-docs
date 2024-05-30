@@ -1,0 +1,23 @@
+{
+  "id": "supervisor/roadmap",
+  "title": "Placehoder",
+  "description": "Hello there!",
+  "source": "@site/docs/supervisor/roadmap.md",
+  "sourceDirName": "supervisor",
+  "slug": "/supervisor/roadmap",
+  "permalink": "/docs/supervisor/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supervisor",
+    "permalink": "/docs/category/supervisor-1"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2024/01/30/2024-01-30-syncthing copy/syncthing",
+  "source": "@site/blog/2024-01-30-syncthing copy/2024-01-30-syncthing.md",
+  "title": "Deep Dive | Syncthing",
+  "description": "tldr: Syncthing is a FOSS, decentralized file synchronization tool, facilitating seamless data synchronization across different locations. This article looks at Syncthing's underlying mechanisms and its application within media production companies, specifically highlighting its use here at Baked Studios to synchronize data across a Synology NAS in Montana, an SNS EVO storage system in Los Angeles, and another storage in New York. By diving into its architecture and operational framework, hopefully this will provide insights into Syncthing's utility in enhancing collaborative workflows and data management in the visual effects industry.",
+  "date": "2024-01-30T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "tidbyt",
+      "permalink": "/blog/tags/tidbyt"
+    },
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    }
+  ],
+  "readingTime": 2.965,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Deep Dive | Syncthing",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "tidbyt",
+      "python"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Deep Dive | Syncthing",
+    "permalink": "/blog/2024/01/30/2024-01-30-syncthing/syncthing"
+  },
+  "nextItem": {
+    "title": "I wrote something in Starlark!",
+    "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
+  }
+}

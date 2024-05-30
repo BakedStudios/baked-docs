@@ -1,0 +1,23 @@
+{
+  "id": "artist/placeholder",
+  "title": "Placehoder",
+  "description": "Hello there!",
+  "source": "@site/docs/artist/placeholder.md",
+  "sourceDirName": "artist",
+  "slug": "/artist/placeholder",
+  "permalink": "/docs/artist/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Artist Workflows",
+    "permalink": "/docs/category/artist-workflows"
+  },
+  "next": {
+    "title": "Developer Info",
+    "permalink": "/docs/category/developer-info"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "developer/placeholder",
+  "title": "Baked Webhooks Service",
+  "description": "This is a Flask web application responsible for handling webhook calls from",
+  "source": "@site/docs/developer/placeholder.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/placeholder",
+  "permalink": "/docs/developer/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer",
+    "permalink": "/docs/category/developer"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap"
+  }
+}

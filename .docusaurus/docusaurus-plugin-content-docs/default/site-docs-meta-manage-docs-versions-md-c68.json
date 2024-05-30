@@ -1,0 +1,26 @@
+{
+  "id": "meta/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/meta/manage-docs-versions.md",
+  "sourceDirName": "meta",
+  "slug": "/meta/manage-docs-versions",
+  "permalink": "/docs/meta/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/docs/meta/create-a-page"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/meta/create-a-document"
+  }
+}

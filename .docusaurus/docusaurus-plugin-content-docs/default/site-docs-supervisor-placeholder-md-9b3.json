@@ -1,0 +1,23 @@
+{
+  "id": "supervisor/placeholder",
+  "title": "Placehoder",
+  "description": "Hello there!",
+  "source": "@site/docs/supervisor/placeholder.md",
+  "sourceDirName": "supervisor",
+  "slug": "/supervisor/placeholder",
+  "permalink": "/docs/supervisor/placeholder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supervisor",
+    "permalink": "/docs/category/supervisor"
+  },
+  "next": {
+    "title": "Developer",
+    "permalink": "/docs/category/developer"
+  }
+}

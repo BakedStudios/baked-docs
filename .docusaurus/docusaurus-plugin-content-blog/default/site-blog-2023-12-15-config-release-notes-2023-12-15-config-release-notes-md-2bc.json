@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2023/12/15/2023-12-15-config-release-notes/config-release-notes",
+  "source": "@site/blog/2023-12-15-config-release-notes/2023-12-15-config-release-notes.md",
+  "title": "Release | v0.4.0-bakedstudios.0.3.9",
+  "description": "OCIO",
+  "date": "2023-12-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "config",
+      "permalink": "/blog/tags/config"
+    }
+  ],
+  "readingTime": 0.365,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Release | v0.4.0-bakedstudios.0.3.9",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "release",
+      "config"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Release | v0.4.1-bakedstudios.0.4.0",
+    "permalink": "/blog/2023/12/30/2023-12-30-config-release-notes/config-release-notes"
+  },
+  "nextItem": {
+    "title": "Deep Dive | TPN",
+    "permalink": "/blog/tpn-deep-dive"
+  }
+}

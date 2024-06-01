@@ -4,20 +4,20 @@ sidebar_position: 3
 
 # OCIO Color Workflow
 
-> The Toolkit tools from Nodes & Layers have built in support for OCIO and context switching. This means that switching between Shots will automatically change the OCIO environment and provide LUTs and CDL’s for the current Shot.
+> The Pipeline Toolkit tools from Nodes & Layers have built in support for OCIO and context switching. This means that switching between shots will automatically change the OCIO environment and provide LUTs and CDL’s for the current shot.
 
 ## The Configuration
-By default, when starting up a project in ShotGrid Desktop, our config looks for a file inside the main Project Root at the following location:
+By default, when starting up a project in Flow Production Tracking, our config looks for a file at the following location:
 
-`global/configs/ocio/config.ocio`
+`[project_root]/global/configs/ocio/config.ocio`
 
 :::info
-To learn more about OCIO and how to create your own configuration files, please visit the [OpenColorIO website](https://opencolorio.org/).
+To learn more about OCIO and how to create configuration files, please visit the [OpenColorIO website](https://opencolorio.org/).
 :::
 
 ## Nuke
 
-#### 1. Open Nuke through ShotGrid Desktop and open a file associated with a shot from the Shotgrid -> File Open window.
+#### 1. Open Nuke through Flow Production Tracking and open a file associated with a shot from the Flow Production Tracking -> File Open window.
 
 #### 2. Select your Show Look or Shot Look from the Viewer Process dropdown
 
@@ -29,7 +29,7 @@ Make sure you don't have color info applied manually when you go to render your 
 
 ## Maya
 
-#### 1. Open Maya through ShotGrid Desktop and open a file associated with a Shot or Asset from the Shotgrid → File Open window.
+#### 1. Open Maya through Flow Production Tracking and open a file associated with a Shot or Asset from the Flow Production Tracking → File Open window.
 
 #### 2. Select your Show Look or Shot Look from the Viewer Transform dropdown
 

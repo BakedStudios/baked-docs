@@ -1,7 +1,7 @@
 {
   "id": "artist/ocio_color_workflow/ocio_color_workflow",
   "title": "OCIO Color Workflow",
-  "description": "The Toolkit tools from Nodes & Layers have built in support for OCIO and context switching. This means that switching between Shots will automatically change the OCIO environment and provide LUTs and CDL’s for the current Shot.",
+  "description": "The Pipeline Toolkit tools from Nodes & Layers have built in support for OCIO and context switching. This means that switching between shots will automatically change the OCIO environment and provide LUTs and CDL’s for the current shot.",
   "source": "@site/docs/artist/ocio_color_workflow/ocio_color_workflow.md",
   "sourceDirName": "artist/ocio_color_workflow",
   "slug": "/artist/ocio_color_workflow/",

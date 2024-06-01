@@ -1,7 +1,7 @@
 {
   "id": "coordinator/ingest/ingest",
   "title": "Ingest",
-  "description": "The Ingest Tool is an application developed for Shotgrid Toolkit which utilizes Nuke Assist to transcode and organize media in order to bring it into our pipeline in a uniform, efficient way.",
+  "description": "The Ingest Tool is an application developed for the Flow Production Tracking Pipeline Toolkit which utilizes Nuke Assist and python to transcode and organize media in order to bring it into our pipeline in a uniform, efficient way.",
   "source": "@site/docs/coordinator/ingest/ingest.md",
   "sourceDirName": "coordinator/ingest",
   "slug": "/coordinator/ingest/",
@@ -10,17 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Coordinator Workflows",
-    "permalink": "/docs/category/coordinator-workflows"
-  },
-  "next": {
     "title": "Statuses",
     "permalink": "/docs/coordinator/statuses"
+  },
+  "next": {
+    "title": "Export",
+    "permalink": "/docs/coordinator/export/"
   }
 }

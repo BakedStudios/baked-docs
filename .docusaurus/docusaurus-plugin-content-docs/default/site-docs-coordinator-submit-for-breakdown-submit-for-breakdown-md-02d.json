@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Statuses",
-    "permalink": "/docs/coordinator/statuses"
+    "title": "Export",
+    "permalink": "/docs/coordinator/export/"
   },
   "next": {
     "title": "Archiving",

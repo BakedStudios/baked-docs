@@ -1,7 +1,7 @@
 {
   "id": "artist/asset_workflow/asset_workflow",
   "title": "Asset Workflow",
-  "description": "This article explains how to Add Assets to Shotgrid, break them down into tasks, Open them, Build the Enclosed Maya Folders and Publish. This is different from the shot workflow.",
+  "description": "This article explains how to Add Assets to Flow Production Tracking, break them down into tasks, Open them, Build the Enclosed Maya Folders and Publish. This is different from the shot workflow.",
   "source": "@site/docs/artist/asset_workflow/asset_workflow.md",
   "sourceDirName": "artist/asset_workflow",
   "slug": "/artist/asset_workflow/",

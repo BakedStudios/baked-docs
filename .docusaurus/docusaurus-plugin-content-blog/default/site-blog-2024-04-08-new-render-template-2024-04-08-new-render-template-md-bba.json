@@ -31,6 +31,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Testing v0.7.0-bakedstudios.0.6.0b5",
+    "permalink": "/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test"
+  },
   "nextItem": {
     "title": "Suite Studios — A SaaS Future for Baked Studios",
     "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"

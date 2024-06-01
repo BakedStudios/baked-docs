@@ -18,8 +18,6 @@ Let’s start with the workstation. Ideally workstations have a shared image tha
 
 <img src={require('./workstations.png').default} className="invert-color" alt="Workstations" style={{ width: '40%', height: 'auto' }} />
 
-> Some workstations at Baked need to be MACs - some Linux as well, but mostly Windows machines.
-
 Now we need a pipeline. Baked has gone with ShotGrid’s Pipeline Toolkit as the foundation for our pipeline. The user-friendly integrations with our primary production management software, as well as support for most digital content creation software, make this toolkit a huge help and an essential starting point. Using the toolkit, Baked and our partners can build things like ingest tools, export tools, environment specific tools, plugin managers and plenty other creative integrations that further our ability to meet the standards set for a good pipeline.
 
 <img src={require('./sgtk.png').default} className="invert-color" alt="SGTK" style={{ width: '50%', height: 'auto' }} />
@@ -55,14 +53,18 @@ Symlinks — Symlinks let us trick ShotGrid by replicating the specified storage
 
 <img src={require('./symlink.png').default} className="invert-color" alt="Symlink" style={{ width: '75%', height: 'auto' }} />
 
-> Note: the absolute UNC file path of the storage stays the same, but as far as ShotGrid is concerned, there’s another “BASKET” in that location.
+:::note
+The absolute UNC file path of the storage stays the same, but as far as ShotGrid is concerned, there’s another “BASKET” in that location.
+:::
 
 ### **Solution 3**
 Sync Solutions — Resilio, Syncthing, and Signiant Jet are all sync solutions that scan for changes in one location and transfer files back and forth to keep multiple servers in sync. This part is pretty straightforward but there are a few things we need to consider: speed, reliability and sync-ability with the cloud. Let’s look at Syncthing, it’s supposed to be fast, it has transfer rules that make it quite reliable, but it doesn’t sync with object storage in the cloud. However it is open source and free, so that’s a great plus. Each sync solution comes with its pros and cons. For now let’s use Syncthing, but we need a cloud workflow for when things get busy and we don’t have enough hardware to support the resource demands — is there another way to ‘sync’ these servers?
 
 <img src={require('./sync_overview.png').default} className="invert-color" alt="Sync Overview" style={{ width: '100%', height: 'auto' }} />
 
-> Note: I’ve added the FARM and AWS Thinkbox parts of our workflow in the above diagrams. These are important aspects of our workflow that we’ll talk about in a moment.
+:::note
+I’ve added the FARM and AWS Thinkbox parts of our workflow in the above diagrams. These are important aspects of our workflow that we’ll talk about in a moment.
+:::
 
 Here’s a brief comparison of different sync solutions:
 |              | Speed | Price     | Cloud Compatible | As Fast as File System |
@@ -76,7 +78,9 @@ Locally Accessible and Mountable Cloud Storage - maybe making a server the place
 
 <img src={require('./suite_overview.png').default} className="invert-color" alt="Suite Overview" style={{ width: '100%', height: 'auto' }} />
 
-> Note: notice how the other two BSKTs are now called just by the make and model of the machine, we don’t need symlinks anymore.
+:::note
+Notice how the other two BSKTs are now called just by the make and model of the machine, we don’t need symlinks anymore.
+:::
 
 In this diagram, you can see Suite plays a pretty heavy role. It’s sitting in the middle because in this scenario, ShotGrid is directed to `Y:\Suite` or `/Volumes/Suite/` as its primary storage location. The storage servers themselves: SNS, SNS and SYN are now for cacheing and slow storage. No more symlinks, or syncing needed. Suite also integrates with the cloud so that workflow is shown above as well.
 
@@ -157,11 +161,15 @@ Mountable Storage for Supervisors and Producers — Aside from replacing a sync 
 
 <img src={require('./supervisor.png').default} className="invert-color" alt="Supervisor Workflow" style={{ width: '100%', height: 'auto' }} />
 
-> Note: addition of Remote Supervisors/Producers workflow
+:::note
+Addition of Remote Supervisors/Producers workflow.
+:::
 
 <img src={require('./play_in_rv.png').default} alt="Play In RV" style={{ width: '75%', height: 'auto' }} />
 
-> Note: media is directly loadable from the “path to frames” and “path to movie” fields that direct RV to EXRs and hi-res MOVs respectively. A user could do this on a train for example.
+:::note
+Media is directly loadable from the “path to frames” and “path to movie” fields that direct RV to EXRs and hi-res MOVs respectively. A user could do this on a train for example.
+:::
 
 <img src={require('./rv_playback.png').default} alt="RV Playback" style={{ width: '100%', height: 'auto' }} />
 

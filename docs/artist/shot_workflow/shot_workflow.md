@@ -7,7 +7,7 @@ sidebar_position: 1
 >This article outlines the shot workflow for Nuke and Maya. This is different from the [asset workflow](/docs/artist/asset_workflow).
 
 ## Nuke
-#### 1. Load SG Desktop
+#### 1. Load Flow Production Tracking desktop app
 
 ![1](./1.png)
 
@@ -19,15 +19,15 @@ sidebar_position: 1
 
 ![3](./3.png)
 
-#### 4. Go to Shotgrid - File Open
+#### 4. Go to Flow Production Tracking -> File Open
 
 ![4](./4.png)
 
-#### 5. Find your File and Open or create a new
+#### 5. Find your file and open or create a new
 
 ![5](./5.jpeg)
 
-#### 6. Go to Shotgrid -> Loader to Load Your Media/Plates/Assets
+#### 6. Go to Flow Production Tracking -> Loader to load Your media, plates or assets
 
 ![6](./6.png)
 
@@ -35,7 +35,7 @@ sidebar_position: 1
 You can now begin work and continue when ready.
 :::
 
-#### 7. Create a Shotgrid Write Node
+#### 7. Create a Flow Production Tracking write node
 
 ![7](./7.png)
 
@@ -51,7 +51,7 @@ You can now begin work and continue when ready.
 
 ![10](./10.png)
 
-#### 11. Select Read Node and go to Shotgrid -> Publish
+#### 11. Select Read Node and go to Flow Production Tracking -> Publish
 
 ![11](./11.png)
 
@@ -70,7 +70,7 @@ You can now begin work and continue when ready.
 
 ## Maya
 
-#### 1. Load SG Desktop
+#### 1. Load Flow Production Tracking desktop app
 
 ![m1](./m1.png)
 
@@ -82,15 +82,15 @@ You can now begin work and continue when ready.
 
 ![m3](./m3.png)
 
-#### 4. Go to Shotgrid - File Open
+#### 4. Go to Flow Production Tracking -> File Open
 
 ![m4](./m4.png)
 
-#### 5. Find your File and Open or create a new
+#### 5. Find your file and open or create a new
 
 ![m5](./m5.jpeg)
 
-#### 6. Go to Shotgrid -> Loader to Load Your Media/Plates/Assets
+#### 6. Go to Flow Production Tracking -> Loader to load your media, plates or other assets
 
 :::note
 You can now begin work and continue when ready.
@@ -130,6 +130,6 @@ You can now begin work and continue when ready.
 
 #### 1. Render your shot to disk.
 
-#### 2. Publish your render to Shotgrid.
+#### 2. Publish your render to Flow Production Tracking.
 
 ![Render](./render.jpeg)

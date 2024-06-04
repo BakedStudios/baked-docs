@@ -1,7 +1,7 @@
 {
   "id": "software/nuke",
-  "title": "nuke",
-  "description": "",
+  "title": "Nuke Assist",
+  "description": "You can download the Nuke installer here.",
   "source": "@site/docs/software/nuke.md",
   "sourceDirName": "software",
   "slug": "/software/nuke",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "flow",
+    "title": "Flow PTR Desktop",
     "permalink": "/docs/software/flow"
   },
   "next": {
-    "title": "suite",
-    "permalink": "/docs/software/suite"
+    "title": "Project Setup",
+    "permalink": "/docs/category/project-setup"
   }
 }

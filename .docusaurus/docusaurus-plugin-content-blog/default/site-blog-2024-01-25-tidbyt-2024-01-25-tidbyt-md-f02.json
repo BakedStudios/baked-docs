@@ -1,7 +1,7 @@
 {
   "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt",
   "source": "@site/blog/2024-01-25-tidbyt/2024-01-25-tidbyt.md",
-  "title": "I wrote something in Starlark!",
+  "title": "Tidbyt Status Monitor",
   "description": "Git repo//github.com/BakedStudios/baked-tools/tree/main/tidbyt-sg-monitor",
   "date": "2024-01-25T00:00:00.000Z",
   "tags": [
@@ -26,7 +26,7 @@
     }
   ],
   "frontMatter": {
-    "title": "I wrote something in Starlark!",
+    "title": "Tidbyt Status Monitor",
     "authors": [
       "cameron"
     ],

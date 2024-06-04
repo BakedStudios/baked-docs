@@ -1,7 +1,7 @@
 {
   "id": "software/baked_app",
-  "title": "baked_app",
-  "description": "",
+  "title": "Baked App",
+  "description": "The Baked App can be downloaded here.",
   "source": "@site/docs/software/baked_app.md",
   "sourceDirName": "software",
   "slug": "/software/baked_app",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quickstart",
-    "permalink": "/docs/category/quickstart"
+    "title": "Suite Storage",
+    "permalink": "/docs/software/suite/"
   },
   "next": {
-    "title": "deadline",
+    "title": "AWS Thinkbox Deadline",
     "permalink": "/docs/software/deadline"
   }
 }

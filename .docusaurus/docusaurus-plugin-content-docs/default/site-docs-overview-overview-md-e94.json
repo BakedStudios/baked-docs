@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Quickstart",
-    "permalink": "/docs/category/quickstart"
+    "title": "Software Setup",
+    "permalink": "/docs/category/software-setup"
   }
 }

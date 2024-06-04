@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quickstart",
-    "permalink": "/docs/category/quickstart"
+    "title": "Software Setup",
+    "permalink": "/docs/category/software-setup"
   },
   "next": {
     "title": "Baked App",

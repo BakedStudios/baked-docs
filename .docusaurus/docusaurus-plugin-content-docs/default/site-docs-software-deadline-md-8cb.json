@@ -1,7 +1,7 @@
 {
   "id": "software/deadline",
-  "title": "deadline",
-  "description": "",
+  "title": "AWS Thinkbox Deadline",
+  "description": "You can download the Deadline installer here.",
   "source": "@site/docs/software/deadline.md",
   "sourceDirName": "software",
   "slug": "/software/deadline",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "baked_app",
+    "title": "Baked App",
     "permalink": "/docs/software/baked_app"
   },
   "next": {
-    "title": "flow",
+    "title": "Flow PTR Desktop",
     "permalink": "/docs/software/flow"
   }
 }

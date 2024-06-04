@@ -1,0 +1,23 @@
+{
+  "id": "software/suite",
+  "title": "suite",
+  "description": "",
+  "source": "@site/docs/software/suite.md",
+  "sourceDirName": "software",
+  "slug": "/software/suite",
+  "permalink": "/docs/software/suite",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nuke",
+    "permalink": "/docs/software/nuke"
+  },
+  "next": {
+    "title": "Nuke Transcoder",
+    "permalink": "/docs/category/nuke-transcoder"
+  }
+}

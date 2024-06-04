@@ -1,0 +1,23 @@
+{
+  "id": "quickstart/flow",
+  "title": "Installing Flow Desktop",
+  "description": "",
+  "source": "@site/docs/quickstart/flow.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/flow",
+  "permalink": "/docs/quickstart/flow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connecting to the Farm",
+    "permalink": "/docs/quickstart/deadline"
+  },
+  "next": {
+    "title": "Using Nuke Assist",
+    "permalink": "/docs/quickstart/nuke"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "quickstart/baked_app",
+  "title": "Baked App How to",
+  "description": "",
+  "source": "@site/docs/quickstart/baked_app.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/baked_app",
+  "permalink": "/docs/quickstart/baked_app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/category/quickstart"
+  },
+  "next": {
+    "title": "Connecting to the Farm",
+    "permalink": "/docs/quickstart/deadline"
+  }
+}

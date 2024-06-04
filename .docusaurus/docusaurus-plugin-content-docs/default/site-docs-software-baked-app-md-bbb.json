@@ -1,0 +1,23 @@
+{
+  "id": "software/baked_app",
+  "title": "baked_app",
+  "description": "",
+  "source": "@site/docs/software/baked_app.md",
+  "sourceDirName": "software",
+  "slug": "/software/baked_app",
+  "permalink": "/docs/software/baked_app",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/category/quickstart"
+  },
+  "next": {
+    "title": "deadline",
+    "permalink": "/docs/software/deadline"
+  }
+}

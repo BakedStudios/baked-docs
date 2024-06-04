@@ -1,0 +1,23 @@
+{
+  "id": "developer/bakedapp",
+  "title": "bakedapp",
+  "description": "",
+  "source": "@site/docs/developer/bakedapp.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/bakedapp",
+  "permalink": "/docs/developer/bakedapp",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Info",
+    "permalink": "/docs/category/developer-info"
+  },
+  "next": {
+    "title": "Webhooks Service",
+    "permalink": "/docs/developer/webhooks"
+  }
+}

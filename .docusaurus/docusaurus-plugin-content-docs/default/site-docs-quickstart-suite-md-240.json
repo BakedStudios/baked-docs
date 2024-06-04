@@ -1,0 +1,23 @@
+{
+  "id": "quickstart/suite",
+  "title": "Installing Suite",
+  "description": "",
+  "source": "@site/docs/quickstart/suite.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/suite",
+  "permalink": "/docs/quickstart/suite",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Nuke Assist",
+    "permalink": "/docs/quickstart/nuke"
+  },
+  "next": {
+    "title": "Project Setup",
+    "permalink": "/docs/category/project-setup"
+  }
+}

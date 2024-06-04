@@ -1,7 +1,7 @@
 {
   "id": "coordinator/export/export",
   "title": "Export",
-  "description": "",
+  "description": "The following is an example of the process for exporting v000s from Plate versions. The same process can be applied for other export profiles like Client Mov and Client EXR.",
   "source": "@site/docs/coordinator/export/export.md",
   "sourceDirName": "coordinator/export",
   "slug": "/coordinator/export/",

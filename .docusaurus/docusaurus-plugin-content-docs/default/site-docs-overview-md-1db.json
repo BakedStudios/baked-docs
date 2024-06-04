@@ -1,7 +1,7 @@
 {
   "id": "overview",
   "title": "Overview",
-  "description": "Hello there!",
+  "description": "This is a top level explanation of Baked Studios' VFX Pipeline including how it works and what you need to know.",
   "source": "@site/docs/overview.md",
   "sourceDirName": ".",
   "slug": "/overview",

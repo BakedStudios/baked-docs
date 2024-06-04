@@ -1,0 +1,23 @@
+{
+  "id": "developer/meta",
+  "title": "Meta",
+  "description": "",
+  "source": "@site/docs/developer/meta.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/meta",
+  "permalink": "/docs/developer/meta",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Baked App",
+    "permalink": "/docs/developer/baked_app"
+  },
+  "next": {
+    "title": "Webhooks Service",
+    "permalink": "/docs/developer/webhooks"
+  }
+}

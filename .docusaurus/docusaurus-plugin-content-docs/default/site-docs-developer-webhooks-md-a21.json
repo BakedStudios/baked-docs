@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Developer Info",
-    "permalink": "/docs/category/developer-info"
+    "title": "Meta",
+    "permalink": "/docs/developer/meta"
   },
   "next": {
     "title": "Roadmap",
-    "permalink": "/docs/roadmap"
+    "permalink": "/docs/roadmap/"
   }
 }

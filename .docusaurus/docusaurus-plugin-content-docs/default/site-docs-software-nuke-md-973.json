@@ -1,0 +1,23 @@
+{
+  "id": "software/nuke",
+  "title": "nuke",
+  "description": "",
+  "source": "@site/docs/software/nuke.md",
+  "sourceDirName": "software",
+  "slug": "/software/nuke",
+  "permalink": "/docs/software/nuke",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "flow",
+    "permalink": "/docs/software/flow"
+  },
+  "next": {
+    "title": "suite",
+    "permalink": "/docs/software/suite"
+  }
+}

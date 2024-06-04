@@ -1,0 +1,23 @@
+{
+  "id": "software/flow",
+  "title": "flow",
+  "description": "",
+  "source": "@site/docs/software/flow.md",
+  "sourceDirName": "software",
+  "slug": "/software/flow",
+  "permalink": "/docs/software/flow",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deadline",
+    "permalink": "/docs/software/deadline"
+  },
+  "next": {
+    "title": "nuke",
+    "permalink": "/docs/software/nuke"
+  }
+}

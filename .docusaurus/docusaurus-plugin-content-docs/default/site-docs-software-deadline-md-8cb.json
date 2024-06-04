@@ -1,0 +1,23 @@
+{
+  "id": "software/deadline",
+  "title": "deadline",
+  "description": "",
+  "source": "@site/docs/software/deadline.md",
+  "sourceDirName": "software",
+  "slug": "/software/deadline",
+  "permalink": "/docs/software/deadline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "baked_app",
+    "permalink": "/docs/software/baked_app"
+  },
+  "next": {
+    "title": "flow",
+    "permalink": "/docs/software/flow"
+  }
+}

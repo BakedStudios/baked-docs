@@ -1,7 +1,7 @@
 {
   "id": "roadmap",
   "title": "Roadmap",
-  "description": "Hello there!",
+  "description": "",
   "source": "@site/docs/roadmap.md",
   "sourceDirName": ".",
   "slug": "/roadmap",
@@ -18,9 +18,5 @@
   "previous": {
     "title": "Webhooks Service",
     "permalink": "/docs/developer/webhooks"
-  },
-  "next": {
-    "title": "Meta",
-    "permalink": "/docs/category/meta"
   }
 }

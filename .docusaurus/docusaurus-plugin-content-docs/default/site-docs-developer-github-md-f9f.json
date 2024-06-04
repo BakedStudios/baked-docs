@@ -1,0 +1,23 @@
+{
+  "id": "developer/github",
+  "title": "Git Repositories",
+  "description": "",
+  "source": "@site/docs/developer/github.md",
+  "sourceDirName": "developer",
+  "slug": "/developer/github",
+  "permalink": "/docs/developer/github",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Baked App",
+    "permalink": "/docs/developer/baked_app"
+  },
+  "next": {
+    "title": "Meta",
+    "permalink": "/docs/developer/meta"
+  }
+}

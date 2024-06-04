@@ -1,0 +1,23 @@
+{
+  "id": "quickstart/deadline",
+  "title": "Connecting to the Farm",
+  "description": "",
+  "source": "@site/docs/quickstart/deadline.md",
+  "sourceDirName": "quickstart",
+  "slug": "/quickstart/deadline",
+  "permalink": "/docs/quickstart/deadline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Baked App How to",
+    "permalink": "/docs/quickstart/baked_app"
+  },
+  "next": {
+    "title": "Installing Flow Desktop",
+    "permalink": "/docs/quickstart/flow"
+  }
+}

@@ -3,9 +3,8 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Welcome",
-  tagline:
-    "Automate: Save time, reduce errors. Integrate: Enhance collaboration. Track: Maintain version control. Test: Ensure continuous quality. Secure: Protect your data. Document: Keep everyone informed.",
+  title: "Baked Docs",
+  tagline: "Baked Studios documentation site",
   favicon: "img/baked-logo-sprite.ico",
 
   // Set the production url of your site here

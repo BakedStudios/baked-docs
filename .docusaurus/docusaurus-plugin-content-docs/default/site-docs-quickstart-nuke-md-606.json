@@ -1,7 +1,7 @@
 {
   "id": "quickstart/nuke",
-  "title": "Using Nuke Assist",
-  "description": "",
+  "title": "Nuke Assist",
+  "description": "You can download the Nuke installer here.",
   "source": "@site/docs/quickstart/nuke.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/nuke",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Installing Flow Desktop",
+    "title": "Flow PTR Desktop",
     "permalink": "/docs/quickstart/flow"
   },
   "next": {
-    "title": "Installing Suite",
-    "permalink": "/docs/quickstart/suite"
+    "title": "Project Setup",
+    "permalink": "/docs/category/project-setup"
   }
 }

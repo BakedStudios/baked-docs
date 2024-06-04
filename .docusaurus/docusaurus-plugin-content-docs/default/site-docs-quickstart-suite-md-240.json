@@ -1,7 +1,7 @@
 {
   "id": "quickstart/suite",
   "title": "Installing Suite",
-  "description": "",
+  "description": "Suite uses an OS aware installation guide to help you set up the program on whatever computer you're using.",
   "source": "@site/docs/quickstart/suite.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/suite",

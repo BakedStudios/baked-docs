@@ -28,9 +28,9 @@ Toolkit is like the OS, and apps are well, apps. You can control your OS system 
 
 Baked is a multi-location company with hubs in Los Angeles, New York and Montana. We designed our pipeline with an open door to a future in the cloud. Incorporating a hybrid workflow between cloud and on-premise systems is complex, but crucial to a modern VFX workflow.
 
-## Pipeline Overview
+## Brid's-Eye View
 
-Our pipeline is a bunch of services put together to make up something we can use. It's a buy-don't-build set up that mostly utilizes proprietary software as a server companies that we subscribe to. For us this works. This is how some of that software and hardware works together in a big system:
+Our pipeline is a bunch of services put together to make up something we can use. It's a buy-don't-build set up that mostly utilizes proprietary software as a service (SAAS) companies that we subscribe to. For us this works. This is how some of that software and hardware works together in a big system:
 
 <img src={require('./after.png').default} className="invert-color" alt="After" style={{ width: '100%', height: 'auto' }} />
 

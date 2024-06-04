@@ -1,7 +1,7 @@
 {
   "id": "quickstart/deadline",
-  "title": "Connecting to the Farm",
-  "description": "",
+  "title": "AWS Thinkbox Deadline",
+  "description": "You can download the Deadline installer here.",
   "source": "@site/docs/quickstart/deadline.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/deadline",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Baked App How to",
+    "title": "Baked App",
     "permalink": "/docs/quickstart/baked_app"
   },
   "next": {
-    "title": "Installing Flow Desktop",
+    "title": "Flow PTR Desktop",
     "permalink": "/docs/quickstart/flow"
   }
 }

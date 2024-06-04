@@ -1,7 +1,7 @@
 {
   "id": "quickstart/flow",
-  "title": "Installing Flow Desktop",
-  "description": "",
+  "title": "Flow PTR Desktop",
+  "description": "You can download the installer for Flow Production Tracking Desktop here",
   "source": "@site/docs/quickstart/flow.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/flow",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Connecting to the Farm",
+    "title": "AWS Thinkbox Deadline",
     "permalink": "/docs/quickstart/deadline"
   },
   "next": {
-    "title": "Using Nuke Assist",
+    "title": "Nuke Assist",
     "permalink": "/docs/quickstart/nuke"
   }
 }

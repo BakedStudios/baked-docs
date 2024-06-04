@@ -1,0 +1,26 @@
+{
+  "id": "quickstart/suite/suite",
+  "title": "Suite Storage",
+  "description": "You can download the installer for Suite here.",
+  "source": "@site/docs/quickstart/suite/suite.md",
+  "sourceDirName": "quickstart/suite",
+  "slug": "/quickstart/suite/",
+  "permalink": "/docs/quickstart/suite/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quickstart",
+    "permalink": "/docs/category/quickstart"
+  },
+  "next": {
+    "title": "Baked App",
+    "permalink": "/docs/quickstart/baked_app"
+  }
+}

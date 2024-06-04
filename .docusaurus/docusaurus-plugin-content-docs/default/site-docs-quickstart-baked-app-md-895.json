@@ -1,7 +1,7 @@
 {
   "id": "quickstart/baked_app",
-  "title": "Baked App How to",
-  "description": "",
+  "title": "Baked App",
+  "description": "The Baked App can be downloaded here.",
   "source": "@site/docs/quickstart/baked_app.md",
   "sourceDirName": "quickstart",
   "slug": "/quickstart/baked_app",
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quickstart",
-    "permalink": "/docs/category/quickstart"
+    "title": "Suite Storage",
+    "permalink": "/docs/quickstart/suite/"
   },
   "next": {
-    "title": "Connecting to the Farm",
+    "title": "AWS Thinkbox Deadline",
     "permalink": "/docs/quickstart/deadline"
   }
 }

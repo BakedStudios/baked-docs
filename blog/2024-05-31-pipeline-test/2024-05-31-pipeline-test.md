@@ -6,11 +6,11 @@ tags: [nuke, pipeline, flow, nodes&layers]
 
 ## Checklist
 
-- [ ] Flow Production Tracking loads Pipeline Toolkit and creates appropriate directories in Suite and on Basket.
+- [x] Flow Production Tracking loads Pipeline Toolkit and creates appropriate directories in Suite and on Basket.
 
-- [ ] Nuke launches properly.
+- [x] Nuke launches properly.
 
-- [ ] Nuke project template is read from Suite.
+- [x] Nuke project template is read from Suite.
 
 - [ ] Plate and ref versions for shotgrid are created properly from Basket.
 
@@ -22,11 +22,11 @@ tags: [nuke, pipeline, flow, nodes&layers]
 
 - [ ] OCIO config sets properly and v000s look correct - and save to appropriate locations in Suite and Basket.
 
-- [ ] Workfiles app works correctly, and artists can open work.
+- [x] Workfiles app works correctly, and artists can open work.
 
-- [ ] OCIO viewer in nuke works.
+- [x] OCIO viewer in nuke works.
 
-- [ ] Flow Production Tracking write node is free of bugs and includes metadata knob.
+- [x] Flow Production Tracking write node is free of bugs and includes metadata knob.
 
 - [ ] Send nuke to deadline works, and deadline is able to read from suite to grab data for render.
 
@@ -34,7 +34,7 @@ tags: [nuke, pipeline, flow, nodes&layers]
 
 - [ ] Movie for Flow is rendered on Deadline. baked.render_artist_mov is findable.
 
-- [ ] Color and slate look correct.
+- [x] Color and slate look correct.
 
 - [ ] Statuses are set correctly on upload and tasks are correct.
 

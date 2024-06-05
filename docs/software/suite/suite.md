@@ -23,3 +23,7 @@ Best thing to do is check out Suite's documentation on the subject [here](https:
 ## Cacheing Suite
 
 Cacheing is an important part of the workflow when using Suite. [Here's that documentation](https://support.suitestudios.io/en/collections/9385463-caching)
+
+:::warning
+It's very important to note that cacheing from Suite does **not** work properly on HDDs - storage for the cache must be an SSD.
+:::

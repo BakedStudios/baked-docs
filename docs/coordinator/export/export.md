@@ -48,5 +48,5 @@ The tool then sends your playlist to Deadline to be processed. Deadline will pul
 This is an added time-suck in our pipeline. Coords will have to wait for deliveries of all kinds to render before delivery. Overall, it's a faster process for the big picture, but for whoever has been assigned this step in the process, it might be slower than what we're used to doing.
 
 :::info
-You can read more about the Delivery tool here in the Nodes & Layers official documentation.
+You can read more about the Delivery tool in the Nodes & Layers official documentation.
 :::

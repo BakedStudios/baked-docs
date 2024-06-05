@@ -20,9 +20,9 @@ The pipeline at Baked can be broken up into a few key parts to make it easy to u
 
 ## Toolkit vs Apps for Toolkit
 
-An important distinction for our pipeline (which is based off the Flow Production Tracking Pipeline Toolkit) is the difference between Toolkit itself and its configuration - and applications that are built for toolkit.
+An important distinction for our pipeline (which is based off the Flow Production Tracking Pipeline Toolkit) is the difference between Toolkit itself and applications built for toolkit.
 
-Toolkit is like the OS, and apps are well, apps. You can control your OS system settings, and then you can control your apps individually. Nodes & Layers makes apps for our toolkit.
+Toolkit is like the OS, and apps are well, apps. You can control your OS system settings (that's our config), and then you can control your apps individually. Nodes & Layers makes apps for our toolkit.
 
 ## Multi-Location Support
 

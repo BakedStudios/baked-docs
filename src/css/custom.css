@@ -57,6 +57,11 @@
     filter: invert(100%);
 }
 
+a {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
 /* Set max-width for images with the invert-color class */
 /* .invert-color {
     max-width: 50%; /* You can change this to a specific value like '500px' */

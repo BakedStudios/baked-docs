@@ -1,0 +1,23 @@
+{
+  "id": "software/baked_app/baked_app",
+  "title": "Baked Tools App",
+  "description": "The Baked Tools App can be downloaded here.",
+  "source": "@site/docs/software/baked_app/baked_app.md",
+  "sourceDirName": "software/baked_app",
+  "slug": "/software/baked_app/",
+  "permalink": "/baked-docs/docs/software/baked_app/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Suite Storage",
+    "permalink": "/baked-docs/docs/software/suite/"
+  },
+  "next": {
+    "title": "AWS Thinkbox Deadline",
+    "permalink": "/baked-docs/docs/software/deadline"
+  }
+}

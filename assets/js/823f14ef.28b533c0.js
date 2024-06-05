@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbaked_docs=self.webpackChunkbaked_docs||[]).push([[388],{5389:a=>{a.exports=JSON.parse('{"tag":{"label":"nuke","permalink":"/blog/tags/nuke","allTagsPath":"/blog/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/nuke","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

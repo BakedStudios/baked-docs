@@ -1,0 +1,26 @@
+{
+  "id": "coordinator/support_files/support_files",
+  "title": "Publishing Support Files",
+  "description": "This step is important for the ocio color workflow. Specifically .cdl and .ccc files published here will swap out with the $SHOT_CUBE tag in the ocio config.",
+  "source": "@site/docs/coordinator/support_files/support_files.md",
+  "sourceDirName": "coordinator/support_files",
+  "slug": "/coordinator/support_files/",
+  "permalink": "/baked-docs/docs/coordinator/support_files/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ingest",
+    "permalink": "/baked-docs/docs/coordinator/ingest/"
+  },
+  "next": {
+    "title": "Export",
+    "permalink": "/baked-docs/docs/coordinator/export/"
+  }
+}

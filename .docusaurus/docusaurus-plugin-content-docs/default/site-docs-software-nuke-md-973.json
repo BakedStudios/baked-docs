@@ -5,7 +5,7 @@
   "source": "@site/docs/software/nuke.md",
   "sourceDirName": "software",
   "slug": "/software/nuke",
-  "permalink": "/docs/software/nuke",
+  "permalink": "/baked-docs/docs/software/nuke",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Flow PTR Desktop",
-    "permalink": "/docs/software/flow"
+    "permalink": "/baked-docs/docs/software/flow"
   },
   "next": {
     "title": "Project Setup",
-    "permalink": "/docs/category/project-setup"
+    "permalink": "/baked-docs/docs/category/project-setup"
   }
 }

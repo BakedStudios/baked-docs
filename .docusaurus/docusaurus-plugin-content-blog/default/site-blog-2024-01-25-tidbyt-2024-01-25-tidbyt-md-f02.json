@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt",
+  "permalink": "/baked-docs/blog/2024/01/25/2024-01-25-tidbyt/tidbyt",
   "source": "@site/blog/2024-01-25-tidbyt/2024-01-25-tidbyt.md",
   "title": "Tidbyt Status Monitor",
   "description": "Git repo//github.com/BakedStudios/baked-tools/tree/main/tidbyt-sg-monitor",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "tidbyt",
-      "permalink": "/blog/tags/tidbyt"
+      "permalink": "/baked-docs/blog/tags/tidbyt"
     },
     {
       "label": "python",
-      "permalink": "/blog/tags/python"
+      "permalink": "/baked-docs/blog/tags/python"
     }
   ],
   "readingTime": 2.485,
@@ -38,10 +38,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Deep Dive | Syncthing",
-    "permalink": "/blog/2024/01/30/2024-01-30-syncthing/syncthing"
+    "permalink": "/baked-docs/blog/2024/01/30/2024-01-30-syncthing/syncthing"
   },
   "nextItem": {
     "title": "Exploring 'knobChanged'",
-    "permalink": "/blog/2024/01/15/2024-01-15-knob-changed/knob-changed"
+    "permalink": "/baked-docs/blog/2024/01/15/2024-01-15-knob-changed/knob-changed"
   }
 }

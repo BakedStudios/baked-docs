@@ -5,7 +5,7 @@
   "source": "@site/docs/artist/asset_workflow/asset_workflow.md",
   "sourceDirName": "artist/asset_workflow",
   "slug": "/artist/asset_workflow/",
-  "permalink": "/docs/artist/asset_workflow/",
+  "permalink": "/baked-docs/docs/artist/asset_workflow/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Shot Workflow",
-    "permalink": "/docs/artist/shot_workflow/"
+    "permalink": "/baked-docs/docs/artist/shot_workflow/"
   },
   "next": {
     "title": "OCIO Color Workflow",
-    "permalink": "/docs/artist/ocio_color_workflow/"
+    "permalink": "/baked-docs/docs/artist/ocio_color_workflow/"
   }
 }

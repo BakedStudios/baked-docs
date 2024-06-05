@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/02/25/2024-02-25-usdz/usdz",
+  "permalink": "/baked-docs/blog/2024/02/25/2024-02-25-usdz/usdz",
   "source": "@site/blog/2024-02-25-usdz/2024-02-25-usdz.md",
   "title": "USDZ Cookie!",
   "description": "Simple and fun way to access decades worth of techno dev from Apple and Pixar:",
@@ -7,7 +7,7 @@
   "tags": [
     {
       "label": "usdz",
-      "permalink": "/blog/tags/usdz"
+      "permalink": "/baked-docs/blog/tags/usdz"
     }
   ],
   "readingTime": 0.33,
@@ -33,10 +33,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Suite Studios — A SaaS Future for Baked Studios",
-    "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
+    "permalink": "/baked-docs/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
   },
   "nextItem": {
     "title": "Deep Dive | Suite Studios",
-    "permalink": "/blog/2024/02/15/2024-02-15-suite/suite"
+    "permalink": "/baked-docs/blog/2024/02/15/2024-02-15-suite/suite"
   }
 }

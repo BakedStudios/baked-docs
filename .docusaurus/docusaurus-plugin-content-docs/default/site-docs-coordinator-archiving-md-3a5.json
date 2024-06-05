@@ -5,7 +5,7 @@
   "source": "@site/docs/coordinator/archiving.md",
   "sourceDirName": "coordinator",
   "slug": "/coordinator/archiving",
-  "permalink": "/docs/coordinator/archiving",
+  "permalink": "/baked-docs/docs/coordinator/archiving",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Submit for Breakdown",
-    "permalink": "/docs/coordinator/submit_for_breakdown/"
+    "permalink": "/baked-docs/docs/coordinator/submit_for_breakdown/"
   },
   "next": {
     "title": "Artist Workflows",
-    "permalink": "/docs/category/artist-workflows"
+    "permalink": "/baked-docs/docs/category/artist-workflows"
   }
 }

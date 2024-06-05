@@ -5,7 +5,7 @@
   "source": "@site/docs/developer/webhooks.md",
   "sourceDirName": "developer",
   "slug": "/developer/webhooks",
-  "permalink": "/docs/developer/webhooks",
+  "permalink": "/baked-docs/docs/developer/webhooks",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Meta",
-    "permalink": "/docs/developer/meta"
+    "permalink": "/baked-docs/docs/developer/meta"
   },
   "next": {
     "title": "Roadmap",
-    "permalink": "/docs/roadmap/"
+    "permalink": "/baked-docs/docs/roadmap/"
   }
 }

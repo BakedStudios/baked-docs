@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test",
+  "permalink": "/baked-docs/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test",
   "source": "@site/blog/2024-05-31-pipeline-test/2024-05-31-pipeline-test.md",
   "title": "Testing v0.7.0-bakedstudios.0.6.0b5",
   "description": "Checklist",
@@ -7,19 +7,19 @@
   "tags": [
     {
       "label": "nuke",
-      "permalink": "/blog/tags/nuke"
+      "permalink": "/baked-docs/blog/tags/nuke"
     },
     {
       "label": "pipeline",
-      "permalink": "/blog/tags/pipeline"
+      "permalink": "/baked-docs/blog/tags/pipeline"
     },
     {
       "label": "flow",
-      "permalink": "/blog/tags/flow"
+      "permalink": "/baked-docs/blog/tags/flow"
     },
     {
       "label": "nodes&layers",
-      "permalink": "/blog/tags/nodes-layers"
+      "permalink": "/baked-docs/blog/tags/nodes-layers"
     }
   ],
   "readingTime": 1.29,
@@ -48,6 +48,6 @@
   "unlisted": false,
   "nextItem": {
     "title": "Update to render_template.nk",
-    "permalink": "/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"
+    "permalink": "/baked-docs/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"
   }
 }

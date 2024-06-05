@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/01/15/2024-01-15-knob-changed/knob-changed",
+  "permalink": "/baked-docs/blog/2024/01/15/2024-01-15-knob-changed/knob-changed",
   "source": "@site/blog/2024-01-15-knob-changed/2024-01-15-knob-changed.md",
   "title": "Exploring 'knobChanged'",
   "description": "A foray into the knobChanged function in Nuke.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "nuke",
-      "permalink": "/blog/tags/nuke"
+      "permalink": "/baked-docs/blog/tags/nuke"
     },
     {
       "label": "scripting",
-      "permalink": "/blog/tags/scripting"
+      "permalink": "/baked-docs/blog/tags/scripting"
     }
   ],
   "readingTime": 3.605,
@@ -38,10 +38,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Tidbyt Status Monitor",
-    "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
+    "permalink": "/baked-docs/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
   },
   "nextItem": {
     "title": "Release | v0.4.4-bakedstudios.0.4.1",
-    "permalink": "/blog/2023/12/31/2023-12-31-config-release-notes/config-release-notes"
+    "permalink": "/baked-docs/blog/2023/12/31/2023-12-31-config-release-notes/config-release-notes"
   }
 }

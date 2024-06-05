@@ -5,7 +5,7 @@
   "source": "@site/docs/developer/baked_app.md",
   "sourceDirName": "developer",
   "slug": "/developer/baked_app",
-  "permalink": "/docs/developer/baked_app",
+  "permalink": "/baked-docs/docs/developer/baked_app",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Developer Info",
-    "permalink": "/docs/category/developer-info"
+    "permalink": "/baked-docs/docs/category/developer-info"
   },
   "next": {
     "title": "Meta",
-    "permalink": "/docs/developer/meta"
+    "permalink": "/baked-docs/docs/developer/meta"
   }
 }

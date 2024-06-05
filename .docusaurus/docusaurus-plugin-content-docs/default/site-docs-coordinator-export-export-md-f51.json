@@ -5,7 +5,7 @@
   "source": "@site/docs/coordinator/export/export.md",
   "sourceDirName": "coordinator/export",
   "slug": "/coordinator/export/",
-  "permalink": "/docs/coordinator/export/",
+  "permalink": "/baked-docs/docs/coordinator/export/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Ingest",
-    "permalink": "/docs/coordinator/ingest/"
+    "permalink": "/baked-docs/docs/coordinator/ingest/"
   },
   "next": {
     "title": "Submit for Breakdown",
-    "permalink": "/docs/coordinator/submit_for_breakdown/"
+    "permalink": "/baked-docs/docs/coordinator/submit_for_breakdown/"
   }
 }

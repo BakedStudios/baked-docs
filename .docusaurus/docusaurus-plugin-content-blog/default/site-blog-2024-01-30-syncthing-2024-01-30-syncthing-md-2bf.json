@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/01/30/2024-01-30-syncthing/syncthing",
+  "permalink": "/baked-docs/blog/2024/01/30/2024-01-30-syncthing/syncthing",
   "source": "@site/blog/2024-01-30-syncthing/2024-01-30-syncthing.md",
   "title": "Deep Dive | Syncthing",
   "description": "tldr: Syncthing is a FOSS, decentralized file synchronization tool, facilitating seamless data synchronization across different locations. This article looks at Syncthing's underlying mechanisms and its application within media production companies, specifically highlighting its use here at Baked Studios to synchronize data across a Synology NAS in Montana, an SNS EVO storage system in Los Angeles, and another storage in New York. By diving into its architecture and operational framework, hopefully this will provide insights into Syncthing's utility in enhancing collaborative workflows and data management in the visual effects industry.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "syncthing",
-      "permalink": "/blog/tags/syncthing"
+      "permalink": "/baked-docs/blog/tags/syncthing"
     },
     {
       "label": "deep-dive",
-      "permalink": "/blog/tags/deep-dive"
+      "permalink": "/baked-docs/blog/tags/deep-dive"
     }
   ],
   "readingTime": 2.97,
@@ -38,10 +38,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Deep Dive | Suite Studios",
-    "permalink": "/blog/2024/02/15/2024-02-15-suite/suite"
+    "permalink": "/baked-docs/blog/2024/02/15/2024-02-15-suite/suite"
   },
   "nextItem": {
     "title": "Tidbyt Status Monitor",
-    "permalink": "/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
+    "permalink": "/baked-docs/blog/2024/01/25/2024-01-25-tidbyt/tidbyt"
   }
 }

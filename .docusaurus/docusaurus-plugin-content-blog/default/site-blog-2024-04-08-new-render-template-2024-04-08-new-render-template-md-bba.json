@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/04/08/2024-04-08-new-render-template/new-render-template",
+  "permalink": "/baked-docs/blog/2024/04/08/2024-04-08-new-render-template/new-render-template",
   "source": "@site/blog/2024-04-08-new-render-template/2024-04-08-new-render-template.md",
   "title": "Update to render_template.nk",
   "description": "Changes have been made to the rendertemplate.nk file for the nuke transcoder.",
@@ -7,7 +7,7 @@
   "tags": [
     {
       "label": "nuke",
-      "permalink": "/blog/tags/nuke"
+      "permalink": "/baked-docs/blog/tags/nuke"
     }
   ],
   "readingTime": 0.37,
@@ -33,10 +33,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Testing v0.7.0-bakedstudios.0.6.0b5",
-    "permalink": "/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test"
+    "permalink": "/baked-docs/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test"
   },
   "nextItem": {
     "title": "Suite Studios — A SaaS Future for Baked Studios",
-    "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
+    "permalink": "/baked-docs/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/tpn-deep-dive",
+  "permalink": "/baked-docs/blog/tpn-deep-dive",
   "source": "@site/blog/2023-09-29-tpn-deep-dive/2023-09-29-tpn-deep-dive.md",
   "title": "Deep Dive | TPN",
   "description": "TLDR: it's some security stuff. Mainly a way for big studios to keep their IP safe - for Baked, it could open the doors to more clients.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "TPN",
-      "permalink": "/blog/tags/tpn"
+      "permalink": "/baked-docs/blog/tags/tpn"
     },
     {
       "label": "deep-dive",
-      "permalink": "/blog/tags/deep-dive"
+      "permalink": "/baked-docs/blog/tags/deep-dive"
     }
   ],
   "readingTime": 2.705,
@@ -39,10 +39,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Release | v0.4.0-bakedstudios.0.3.9",
-    "permalink": "/blog/2023/12/15/2023-12-15-config-release-notes/config-release-notes"
+    "permalink": "/baked-docs/blog/2023/12/15/2023-12-15-config-release-notes/config-release-notes"
   },
   "nextItem": {
     "title": "Deep Dive | Signiant Jet",
-    "permalink": "/blog/jet-deep-dive"
+    "permalink": "/baked-docs/blog/jet-deep-dive"
   }
 }

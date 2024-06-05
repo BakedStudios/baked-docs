@@ -5,7 +5,7 @@
   "source": "@site/docs/overview/overview.md",
   "sourceDirName": "overview",
   "slug": "/overview/",
-  "permalink": "/docs/overview/",
+  "permalink": "/baked-docs/docs/overview/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Software Setup",
-    "permalink": "/docs/category/software-setup"
+    "permalink": "/baked-docs/docs/category/software-setup"
   }
 }

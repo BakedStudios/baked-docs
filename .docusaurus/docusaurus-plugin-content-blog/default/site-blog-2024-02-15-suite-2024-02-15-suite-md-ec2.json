@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/02/15/2024-02-15-suite/suite",
+  "permalink": "/baked-docs/blog/2024/02/15/2024-02-15-suite/suite",
   "source": "@site/blog/2024-02-15-suite/2024-02-15-suite.md",
   "title": "Deep Dive | Suite Studios",
   "description": "Suite Studios is a cloud storage solution that acts like a local drive, mounted to your computer. The company leverages FUSE, which stands for Filesystem in Userspace, and is a way to create a bridge between your computer's system and a variety of storage options or file systems without needing to deeply integrate them into the core part of your computer's operating system. With FUSE, you can add new types of storage systems or file formats to your computer easily, without needing to modify the core operating system.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "suite",
-      "permalink": "/blog/tags/suite"
+      "permalink": "/baked-docs/blog/tags/suite"
     },
     {
       "label": "deep-dive",
-      "permalink": "/blog/tags/deep-dive"
+      "permalink": "/baked-docs/blog/tags/deep-dive"
     }
   ],
   "readingTime": 2.945,
@@ -38,10 +38,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "USDZ Cookie!",
-    "permalink": "/blog/2024/02/25/2024-02-25-usdz/usdz"
+    "permalink": "/baked-docs/blog/2024/02/25/2024-02-25-usdz/usdz"
   },
   "nextItem": {
     "title": "Deep Dive | Syncthing",
-    "permalink": "/blog/2024/01/30/2024-01-30-syncthing/syncthing"
+    "permalink": "/baked-docs/blog/2024/01/30/2024-01-30-syncthing/syncthing"
   }
 }

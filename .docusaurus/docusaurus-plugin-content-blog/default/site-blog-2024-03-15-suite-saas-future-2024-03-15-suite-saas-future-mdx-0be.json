@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future",
+  "permalink": "/baked-docs/blog/2024/03/15/2024-03-15-suite-saas-future/suite-saas-future",
   "source": "@site/blog/2024-03-15-suite-saas-future/2024-03-15-suite-saas-future.mdx",
   "title": "Suite Studios — A SaaS Future for Baked Studios",
   "description": "This is an overview of how our pipeline could be improved by adopting Suite Studios cloud storage software.",
@@ -7,11 +7,11 @@
   "tags": [
     {
       "label": "suite",
-      "permalink": "/blog/tags/suite"
+      "permalink": "/baked-docs/blog/tags/suite"
     },
     {
       "label": "file-transfer",
-      "permalink": "/blog/tags/file-transfer"
+      "permalink": "/baked-docs/blog/tags/file-transfer"
     }
   ],
   "readingTime": 15.215,
@@ -38,10 +38,10 @@
   "unlisted": false,
   "prevItem": {
     "title": "Update to render_template.nk",
-    "permalink": "/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"
+    "permalink": "/baked-docs/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"
   },
   "nextItem": {
     "title": "USDZ Cookie!",
-    "permalink": "/blog/2024/02/25/2024-02-25-usdz/usdz"
+    "permalink": "/baked-docs/blog/2024/02/25/2024-02-25-usdz/usdz"
   }
 }

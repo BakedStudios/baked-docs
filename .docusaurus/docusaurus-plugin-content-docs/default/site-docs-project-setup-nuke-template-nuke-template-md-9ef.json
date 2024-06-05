@@ -1,7 +1,7 @@
 {
   "id": "project_setup/nuke_template/nuke_template",
-  "title": "nuke_template",
-  "description": "",
+  "title": "Setting the Nuke Template",
+  "description": "This article explains the purpose of the template.nk file and how to change it.",
   "source": "@site/docs/project_setup/nuke_template/nuke_template.md",
   "sourceDirName": "project_setup/nuke_template",
   "slug": "/project_setup/nuke_template/",
@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Nodes List (For Render Template and Export Profiles)",
-    "permalink": "/baked-docs/docs/project_setup/nodes_list"
+    "title": "Authoring the Open Color IO Configuration",
+    "permalink": "/baked-docs/docs/project_setup/ocio_config/"
   },
   "next": {
-    "title": "ocio_config",
-    "permalink": "/baked-docs/docs/project_setup/ocio_config/"
+    "title": "Configuring the Nuke Transcoder Render Template",
+    "permalink": "/baked-docs/docs/project_setup/render_template/"
   }
 }

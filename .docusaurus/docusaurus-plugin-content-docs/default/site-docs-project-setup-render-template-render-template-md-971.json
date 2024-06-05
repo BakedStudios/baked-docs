@@ -1,7 +1,7 @@
 {
   "id": "project_setup/render_template/render_template",
-  "title": "render_template",
-  "description": "",
+  "title": "Configuring the Nuke Transcoder Render Template",
+  "description": "This article explains how the Render Template works and how to configure it for a new project. The Render Template is the most important part of this workflow and needs to be set very carefully by an artist or supervisor.",
   "source": "@site/docs/project_setup/render_template/render_template.md",
   "sourceDirName": "project_setup/render_template",
   "slug": "/project_setup/render_template/",
@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ocio_config",
-    "permalink": "/baked-docs/docs/project_setup/ocio_config/"
+    "title": "Setting the Nuke Template",
+    "permalink": "/baked-docs/docs/project_setup/nuke_template/"
   },
   "next": {
-    "title": "Coordinator Workflows",
-    "permalink": "/baked-docs/docs/category/coordinator-workflows"
+    "title": "Nodes List (For Render Template and Export Profiles)",
+    "permalink": "/baked-docs/docs/project_setup/nodes_list"
   }
 }

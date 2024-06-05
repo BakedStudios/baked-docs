@@ -1,7 +1,7 @@
 {
   "id": "project_setup/ocio_config/ocio_config",
-  "title": "ocio_config",
-  "description": "",
+  "title": "Authoring the Open Color IO Configuration",
+  "description": "This article will show you how to set (and forget, hopefully) the OCIO config file for a new project.",
   "source": "@site/docs/project_setup/ocio_config/ocio_config.md",
   "sourceDirName": "project_setup/ocio_config",
   "slug": "/project_setup/ocio_config/",
@@ -10,14 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nuke_template",
-    "permalink": "/baked-docs/docs/project_setup/nuke_template/"
+    "title": "Project Setup",
+    "permalink": "/baked-docs/docs/category/project-setup"
   },
   "next": {
-    "title": "render_template",
-    "permalink": "/baked-docs/docs/project_setup/render_template/"
+    "title": "Setting the Nuke Template",
+    "permalink": "/baked-docs/docs/project_setup/nuke_template/"
   }
 }

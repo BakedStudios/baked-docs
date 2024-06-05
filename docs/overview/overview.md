@@ -50,3 +50,7 @@ The basic software breakdown is included in the sidebar as well, here's the list
 
 
 Happy reading!
+
+:::tip
+An additional software that isn't mentioned above is LibreOffice. It's actually super handy for editing .csv files on the fly - particularly helpful for coordinators. Can download [here](https://www.libreoffice.org/)
+:::

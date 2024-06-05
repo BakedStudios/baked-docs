@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Project Setup",
-    "permalink": "/baked-docs/docs/category/project-setup"
+    "title": "Configuring the Nuke Transcoder Render Template",
+    "permalink": "/baked-docs/docs/project_setup/render_template/"
   },
   "next": {
-    "title": "nuke_template",
-    "permalink": "/baked-docs/docs/project_setup/nuke_template/"
+    "title": "Coordinator Workflows",
+    "permalink": "/baked-docs/docs/category/coordinator-workflows"
   }
 }

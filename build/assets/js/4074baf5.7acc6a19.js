@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbaked_docs=self.webpackChunkbaked_docs||[]).push([[9490],{7560:a=>{a.exports=JSON.parse('{"tag":{"label":"TPN","permalink":"/blog/tags/tpn","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/tpn","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

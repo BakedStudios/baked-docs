@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Webhooks Service",
-    "permalink": "/docs/developer/webhooks"
+    "title": "Meta",
+    "permalink": "/docs/developer/meta"
   }
 }

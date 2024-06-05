@@ -1,7 +1,7 @@
 {
   "id": "developer/meta",
   "title": "Meta",
-  "description": "",
+  "description": "About this documentation site.",
   "source": "@site/docs/developer/meta.md",
   "sourceDirName": "developer",
   "slug": "/developer/meta",
@@ -13,7 +13,7 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Baked App",
+    "title": "Baked Tools App",
     "permalink": "/baked-docs/docs/developer/baked_app"
   },
   "next": {

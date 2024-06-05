@@ -1,7 +1,7 @@
 {
   "id": "roadmap/roadmap",
   "title": "Roadmap",
-  "description": "",
+  "description": "Flow PTR Config",
   "source": "@site/docs/roadmap/roadmap.md",
   "sourceDirName": "roadmap",
   "slug": "/roadmap/",

@@ -1,7 +1,7 @@
 {
   "id": "developer/baked_app",
-  "title": "Baked App",
-  "description": "",
+  "title": "Baked Tools App",
+  "description": "Info about the Baked Tools App",
   "source": "@site/docs/developer/baked_app.md",
   "sourceDirName": "developer",
   "slug": "/developer/baked_app",

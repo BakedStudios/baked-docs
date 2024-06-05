@@ -1,0 +1,23 @@
+{
+  "id": "project_setup/render_template/render_template",
+  "title": "render_template",
+  "description": "",
+  "source": "@site/docs/project_setup/render_template/render_template.md",
+  "sourceDirName": "project_setup/render_template",
+  "slug": "/project_setup/render_template/",
+  "permalink": "/baked-docs/docs/project_setup/render_template/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ocio_config",
+    "permalink": "/baked-docs/docs/project_setup/ocio_config/"
+  },
+  "next": {
+    "title": "Coordinator Workflows",
+    "permalink": "/baked-docs/docs/category/coordinator-workflows"
+  }
+}

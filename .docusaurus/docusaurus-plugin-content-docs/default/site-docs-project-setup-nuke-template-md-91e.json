@@ -1,0 +1,23 @@
+{
+  "id": "project_setup/nuke_template",
+  "title": "nuke_template",
+  "description": "",
+  "source": "@site/docs/project_setup/nuke_template.md",
+  "sourceDirName": "project_setup",
+  "slug": "/project_setup/nuke_template",
+  "permalink": "/baked-docs/docs/project_setup/nuke_template",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nodes List (For Render Template and Export Profiles)",
+    "permalink": "/baked-docs/docs/project_setup/nodes_list"
+  },
+  "next": {
+    "title": "Coordinator Workflows",
+    "permalink": "/baked-docs/docs/category/coordinator-workflows"
+  }
+}

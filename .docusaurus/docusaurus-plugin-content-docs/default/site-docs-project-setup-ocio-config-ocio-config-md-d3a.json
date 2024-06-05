@@ -1,0 +1,23 @@
+{
+  "id": "project_setup/ocio_config/ocio_config",
+  "title": "ocio_config",
+  "description": "",
+  "source": "@site/docs/project_setup/ocio_config/ocio_config.md",
+  "sourceDirName": "project_setup/ocio_config",
+  "slug": "/project_setup/ocio_config/",
+  "permalink": "/baked-docs/docs/project_setup/ocio_config/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nuke_template",
+    "permalink": "/baked-docs/docs/project_setup/nuke_template/"
+  },
+  "next": {
+    "title": "render_template",
+    "permalink": "/baked-docs/docs/project_setup/render_template/"
+  }
+}

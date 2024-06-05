@@ -4,10 +4,33 @@
         <title>Baked Docs Blog</title>
         <link>https://wearebaked.com/baked-docs/blog</link>
         <description>Baked Docs Blog</description>
-        <lastBuildDate>Fri, 31 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Release | v0.7.0-bakedstudios.0.6.0]]></title>
+            <link>https://wearebaked.com/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes</link>
+            <guid>https://wearebaked.com/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes</guid>
+            <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Notes:]]></description>
+            <content:encoded><![CDATA[<p>Notes:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="new-features--">New Features -<a href="https://wearebaked.com/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes#new-features--" class="hash-link" aria-label="Direct link to New Features -" title="Direct link to New Features -">​</a></h3>
+<ul>
+<li>Integration with Suite Cloud Storage</li>
+<li>beta support for the Adobe Premiere Toolkit Engine</li>
+<li>Updates the official core, engine, frameworks and apps to latest versions from Flow</li>
+<li>Updates base Nodes&amp;Layers config to v0.7.0</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes--">Bug Fixes -<a href="https://wearebaked.com/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes#bug-fixes--" class="hash-link" aria-label="Direct link to Bug Fixes -" title="Direct link to Bug Fixes -">​</a></h3>
+<ul>
+<li>Fixes issues with the schema for SUITE</li>
+<li>Fixes an issue with the schema that would register multipe Shot location</li>
+<li>Solves nuke writenode, metadata and colorspace issue</li>
+</ul>]]></content:encoded>
+            <category>release</category>
+            <category>config</category>
+        </item>
         <item>
             <title><![CDATA[Testing v0.7.0-bakedstudios.0.6.0b5]]></title>
             <link>https://wearebaked.com/baked-docs/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test</link>

@@ -48,7 +48,6 @@ The basic software breakdown is included in the sidebar as well, here's the list
 | Nuke & Nuke Assist| Artist DCC / Ingest Tool           | Artists and Coords|
 | Deadline          | Render Farm Manager                | Artists and Coords|
 
-
 Happy reading!
 
 :::tip

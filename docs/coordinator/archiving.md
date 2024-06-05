@@ -25,3 +25,7 @@ Once your project is finished, shots are marked [final](/docs/coordinator/status
       - The path to the show in Basket (ex. Path: Basket\Commercial\ABC)
 
 6. After some time, check back in to see if the show was successfully archived.
+
+:::info
+You can now make use of the [Baked Tools App](/baked-docs/docs/software/baked_app/) for this process.
+:::

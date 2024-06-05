@@ -17,7 +17,7 @@ export default function Home(): JSX.Element {
             <h1>🚰⚙️🔧</h1>
             <h2>Welcome to Baked's pipeline site!</h2>
             <h2>___</h2>
-            <h1>🥳 v0.6.0-bakedstudios.0.5.4 is out! 🎉</h1>
+            <h1>🥳 v0.7.0-bakedstudios.0.6.0 is out! 🎉</h1>
             <h2>___</h2>
             <h2>Helpful links:</h2>
             <h3>

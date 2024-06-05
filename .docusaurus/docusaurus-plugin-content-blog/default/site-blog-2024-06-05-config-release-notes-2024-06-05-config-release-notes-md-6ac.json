@@ -1,0 +1,43 @@
+{
+  "permalink": "/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes",
+  "source": "@site/blog/2024-06-05-config-release-notes/2024-06-05-config-release-notes.md",
+  "title": "Release | v0.7.0-bakedstudios.0.6.0",
+  "description": "Notes:",
+  "date": "2024-06-05T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/baked-docs/blog/tags/release"
+    },
+    {
+      "label": "config",
+      "permalink": "/baked-docs/blog/tags/config"
+    }
+  ],
+  "readingTime": 0.37,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Cameron Target",
+      "title": "Pipeline Manager",
+      "url": "https://www.wearebaked.com/about",
+      "imageURL": "https://avatars.githubusercontent.com/u/127965975?s=400&u=9799eb0c2c2b7bcf45f47bb170c8a154fd4e7eb4&v=4",
+      "key": "cameron"
+    }
+  ],
+  "frontMatter": {
+    "title": "Release | v0.7.0-bakedstudios.0.6.0",
+    "authors": [
+      "cameron"
+    ],
+    "tags": [
+      "release",
+      "config"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Testing v0.7.0-bakedstudios.0.6.0b5",
+    "permalink": "/baked-docs/blog/2024/05/31/2024-05-31-pipeline-test/pipeline-test"
+  }
+}

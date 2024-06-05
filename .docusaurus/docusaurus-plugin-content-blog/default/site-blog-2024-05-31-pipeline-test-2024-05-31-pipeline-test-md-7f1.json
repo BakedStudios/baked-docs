@@ -46,6 +46,10 @@
     ]
   },
   "unlisted": false,
+  "prevItem": {
+    "title": "Release | v0.7.0-bakedstudios.0.6.0",
+    "permalink": "/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes"
+  },
   "nextItem": {
     "title": "Update to render_template.nk",
     "permalink": "/baked-docs/blog/2024/04/08/2024-04-08-new-render-template/new-render-template"

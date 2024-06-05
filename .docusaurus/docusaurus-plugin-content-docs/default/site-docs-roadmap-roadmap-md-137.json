@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Webhooks Service",
-    "permalink": "/baked-docs/docs/developer/webhooks"
+    "title": "Meta",
+    "permalink": "/baked-docs/docs/developer/meta"
   }
 }

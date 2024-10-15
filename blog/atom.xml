@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wearebaked.com/baked-docs/blog</id>
     <title>Baked Docs Blog</title>
-    <updated>2024-06-05T00:00:00.000Z</updated>
+    <updated>2024-10-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wearebaked.com/baked-docs/blog"/>
     <subtitle>Baked Docs Blog</subtitle>
     <icon>https://wearebaked.com/baked-docs/img/baked-logo-sprite.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Helpful Template Nodes]]></title>
+        <id>https://wearebaked.com/baked-docs/blog/2024/10/15/2024-10-15-new-template-nodes/new-template-nodes</id>
+        <link href="https://wearebaked.com/baked-docs/blog/2024/10/15/2024-10-15-new-template-nodes/new-template-nodes"/>
+        <updated>2024-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Nodes Added for Nuke Template]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-nodes-added-for-nuke-template">New Nodes Added for Nuke Template<a href="https://wearebaked.com/baked-docs/blog/2024/10/15/2024-10-15-new-template-nodes/new-template-nodes#new-nodes-added-for-nuke-template" class="hash-link" aria-label="Direct link to New Nodes Added for Nuke Template" title="Direct link to New Nodes Added for Nuke Template">​</a></h2>
+<p>Hi guys, I've added a couple things to the <a href="suite://files/Film/HAL/global/configs/nuke/template.nk" target="_blank" rel="noopener noreferrer">template.nk</a> that should hopefully help with color and scale.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="scale-sg-node">Scale SG Node<a href="https://wearebaked.com/baked-docs/blog/2024/10/15/2024-10-15-new-template-nodes/new-template-nodes#scale-sg-node" class="hash-link" aria-label="Direct link to Scale SG Node" title="Direct link to Scale SG Node">​</a></h2>
+<p>Please use this in your comps in tandem with your tranform to match ref. Once matched, you can send the info to SG and turn the node off for rendering. Hopefully we get positive news from the client today, and they provide us with some numbers, in which case you can use the Set scale FROM SG feature.</p>
+<p><img decoding="async" loading="lazy" alt="SGNode" src="https://wearebaked.com/baked-docs/assets/images/SG_Node1-5c6c4608141e0259df95dd8bc3964607.png" width="592" height="518" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="SGNode" src="https://wearebaked.com/baked-docs/assets/images/SG_Node2-91756eafc8414e133c418e62611374c8.png" width="1584" height="514" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="color-context-node">Color Context Node<a href="https://wearebaked.com/baked-docs/blog/2024/10/15/2024-10-15-new-template-nodes/new-template-nodes#color-context-node" class="hash-link" aria-label="Direct link to Color Context Node" title="Direct link to Color Context Node">​</a></h2>
+<p>This is different from the OCIO Display Transform node that you can use to preview your context's display look. Here you should select your current context, or another context if you wish to preview, and check to see the LUT and CDL paths.</p>
+<p>It will apply them to your tree. Previewing like this is helpful so you can call things out or just be aware of your color workflow manually, so it doesn't feel like guesswork.</p>
+<p><img decoding="async" loading="lazy" alt="SGNode" src="https://wearebaked.com/baked-docs/assets/images/SG_Node3-dd7ad92c283b73d057e864ebf05b31ff.png" width="548" height="474" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="SGNode" src="https://wearebaked.com/baked-docs/assets/images/SG_Node4-5ea1e28c19b83f15cd35803eb6333d76.png" width="1594" height="658" class="img_ev3q"></p>
+<p>Hopefully these additions will help with what has been a complicated workflow. Good luck over the next couple weeks!</p>]]></content>
+        <author>
+            <name>Cameron Target</name>
+            <uri>https://www.wearebaked.com/about</uri>
+        </author>
+        <category label="nuke" term="nuke"/>
+        <category label="artist" term="artist"/>
+        <category label="sgtk" term="sgtk"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release | v0.7.0-bakedstudios.0.6.0]]></title>
         <id>https://wearebaked.com/baked-docs/blog/2024/06/05/2024-06-05-config-release-notes/config-release-notes</id>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbaked_docs=self.webpackChunkbaked_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/baked-docs/blog","blogTitle":"Blog","authorsListPath":"/baked-docs/blog/authors"}')}}]);

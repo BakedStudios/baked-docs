@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbaked_docs=self.webpackChunkbaked_docs||[]).push([[9350],{9896:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/baked-docs/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":15,"nextPage":"/baked-docs/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
